@@ -63,6 +63,7 @@ doesn't mean I abandoned this repo.
 
 - [easy-align](https://github.com/junegunn/vim-easy-align)
 - [lion](https://github.com/tommcdo/vim-lion)
+- [tabular](https://github.com/godlygeek/tabular)
 
 ### Browser & URLS
 
@@ -84,6 +85,7 @@ doesn't mean I abandoned this repo.
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
+- [mru](https://github.com/yegappan/mru)
 - [scratch](https://github.com/mtth/scratch.vim)
 - [wheel](https://github.com/chimay/wheel)
 
@@ -119,6 +121,7 @@ doesn't mean I abandoned this repo.
 - [cutclass](https://github.com/svermeulen/vim-cutlass)
 - [oscyank](https://github.com/ojroques/vim-oscyank)
 - [system-copy](https://github.com/christoomey/vim-system-copy)
+- [yankstack](https://github.com/maxbrunsfeld/vim-yankstack)
 - [yoink](https://github.com/svermeulen/vim-yoink)
 
 ### Debugger
@@ -260,6 +263,7 @@ doesn't mean I abandoned this repo.
 - [cursorword](https://github.com/itchyny/vim-cursorword)
 - [diminactive](https://github.com/blueyed/vim-diminactive)
 - [ditto](https://github.com/dbmrq/vim-ditto)
+- [expand-region](https://github.com/terryma/vim-expand-region)
 - [highlightedyank](https://github.com/machakann/vim-highlightedyank)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
@@ -328,6 +332,7 @@ doesn't mean I abandoned this repo.
 ### LSP-Like
 
 - [any-jump](https://github.com/pechorin/any-jump.vim)
+- [go](https://github.com/fatih/vim-go)
 - [jedi](https://github.com/davidhalter/jedi-vim)
 - [ledger](https://github.com/ledger/vim-ledger)
 - [pencil](https://github.com/preservim/vim-pencil)
@@ -353,8 +358,10 @@ doesn't mean I abandoned this repo.
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
+- [polyglot](https://github.com/sheerun/vim-polyglot)
 - [presence](https://github.com/andweeb/presence.nvim)
 - [reload](https://github.com/famiu/nvim-reload)
+- [scriptease](https://github.com/tpope/vim-scriptease)
 - [unimpaired](https://github.com/tpope/vim-unimpaired)
 - [vital](https://github.com/vim-jp/vital.vim)
 
@@ -380,6 +387,7 @@ doesn't mean I abandoned this repo.
 - [pythonsense](https://github.com/jeetsukumaran/vim-pythonsense)
 - [targets](https://github.com/wellle/targets.vim)
 - [textobj-user](https://github.com/kana/vim-textobj-user)
+- [textobj-word-column](https://github.com/coderifous/textobj-word-column.vim)
 - [treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 
 ### Operations
@@ -418,10 +426,13 @@ doesn't mean I abandoned this repo.
 - [paq](https://github.com/savq/paq-nvim)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 - [plug](https://github.com/junegunn/vim-plug)
+- [Vundle](https://github.com/VundleVim/Vundle.vim)
 
 ### Quickfix
 
+- [asyncrun](https://github.com/skywind3000/asyncrun.vim)
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
+- [dispatch](https://github.com/tpope/vim-dispatch)
 - [jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
@@ -460,6 +471,7 @@ doesn't mean I abandoned this repo.
 
 ### Search & Replace
 
+- [ack](https://github.com/mileszs/ack.vim)
 - [ctrlsf](https://github.com/dyng/ctrlsf.vim)
 - [far](https://github.com/brooth/far.vim)
 - [ferret](https://github.com/wincent/ferret)
@@ -619,3 +631,5 @@ doesn't mean I abandoned this repo.
 - [focus](https://github.com/beauwilliams/focus.nvim)
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
+- [visual-split](https://github.com/wellle/visual-split.vim)
+- [windowswap](https://github.com/wesQ3/vim-windowswap)
