@@ -143,6 +143,7 @@ doesn't mean I abandoned this repo.
 - [SQL-UPPER](https://github.com/Jorengarenar/vim-SQL-UPPER)
 - [stabs](https://github.com/Thyrum/vim-stabs)
 - [table-mode](https://github.com/dhruvasagar/vim-table-mode)
+- [uppercase-sql](https://github.com/jsborjesson/vim-uppercase-sql)
 
 ### File-Explorer
 
