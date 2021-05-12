@@ -317,6 +317,8 @@ doesn't mean I abandoned this repo.
 - [fzf-lsp](https://github.com/gfanto/fzf-lsp.nvim)
 - [lightbulb](https://github.com/kosayoda/nvim-lightbulb)
 - [lint](https://github.com/mfussenegger/nvim-lint)
+- [lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp)
+- [lsp-smag](https://github.com/weilbith/nvim-lsp-smag)
 - [lsp-status](https://github.com/nvim-lua/lsp-status.nvim)
 - [lsp\_extensions](https://github.com/nvim-lua/lsp_extensions.nvim)
 - [lsp\_signature](https://github.com/ray-x/lsp_signature.nvim)
