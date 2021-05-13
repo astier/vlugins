@@ -100,6 +100,7 @@ doesn't mean I abandoned this repo.
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
 - [prodoc](https://github.com/glepnir/prodoc.nvim)
+- [todo-comments](https://github.com/folke/todo-comments.nvim)
 - [ts-context-commentstring](ts-context-commentstring)
 
 ### Completion
