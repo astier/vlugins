@@ -601,6 +601,7 @@ doesn't mean I abandoned this repo.
 
 - [calendar](https://github.com/mattn/calendar-vim)
 - [context](https://github.com/wellle/context.vim)
+- [dashboard](https://github.com/glepnir/dashboard-nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [goyo](https://github.com/junegunn/goyo.vim)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
