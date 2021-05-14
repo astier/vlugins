@@ -543,6 +543,7 @@ doesn't mean I abandoned this repo.
 - [staline](https://github.com/tamton-aquib/staline.nvim)
 - [statusline](https://github.com/beauwilliams/statusline.lua)
 - [tpipeline](https://github.com/vimpostor/vim-tpipeline)
+- [windline](https://github.com/windwp/windline.nvim)
 
 ### Tab-/Buffer-line
 
