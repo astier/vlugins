@@ -189,6 +189,7 @@ doesn't mean I abandoned this repo.
 - [ale](https://github.com/dense-analysis/ale)
 - [autoformat](https://github.com/chiel92/vim-autoformat)
 - [filetype-formatter](https://github.com/pappasam/vim-filetype-formatter)
+- [fmt](https://github.com/aonemd/fmt.vim)
 - [formatter](https://github.com/mhartington/formatter.nvim)
 - [importmagic](https://github.com/anihm136/importmagic.nvim)
 - [lessspace](https://github.com/thirtythreeforty/lessspace.vim)
