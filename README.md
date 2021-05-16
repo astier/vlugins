@@ -442,6 +442,7 @@ doesn't mean I abandoned this repo.
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
 - [quickfix-reflector](https://github.com/stefandtw/quickfix-reflector.vim)
+- [toolwindow](https://github.com/EthanJWright/toolwindow.nvim)
 
 ### Registers
 
