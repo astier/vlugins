@@ -175,6 +175,7 @@ doesn't mean I abandoned this repo.
 - [eunuch](https://github.com/tpope/vim-eunuch)
 - [fwatch](https://github.com/rktjmp/fwatch.nvim)
 - [jumpwire](https://github.com/micmine/jumpwire.nvim)
+- [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
 - [rooter](https://github.com/airblade/vim-rooter)
 
