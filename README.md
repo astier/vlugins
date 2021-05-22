@@ -275,6 +275,7 @@ doesn't mean I abandoned this repo.
 - [overlength](https://github.com/tjdevries/overlength.vim)
 - [pinnacle](https://github.com/wincent/pinnacle)
 - [rainbow](https://github.com/luochen1990/rainbow)
+- [range-highlight](https://github.com/winston0410/range-highlight.nvim)
 - [signature](https://github.com/kshenoy/vim-signature)
 - [specs](https://github.com/edluffy/specs.nvim)
 - [traces](https://github.com/markonm/traces.vim)
