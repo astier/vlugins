@@ -177,7 +177,8 @@ doesn't mean I abandoned this repo.
 - [jumpwire](https://github.com/micmine/jumpwire.nvim)
 - [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
-- [rooter](https://github.com/airblade/vim-rooter)
+- [rooter](https://github.com/ygm2/rooter.nvim)
+- [vim-rooter](https://github.com/airblade/vim-rooter)
 
 ### Folding
 
