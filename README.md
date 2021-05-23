@@ -528,6 +528,7 @@ doesn't mean I abandoned this repo.
 - [apm](https://github.com/ThePrimeagen/vim-apm)
 - [plugins-profile](https://github.com/hyiltiz/vim-plugins-profile)
 - [startuptime](https://github.com/tweekmonster/startuptime.vim)
+- [vim-startuptime](https://github.com/dstein64/vim-startuptime)
 - [wakatime](https://github.com/wakatime/vim-wakatime)
 
 ### Statusline
