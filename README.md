@@ -494,10 +494,11 @@ doesn't mean I abandoned this repo.
 ### Session-Management
 
 - [auto-session](https://github.com/rmagatti/auto-session)
-- [lastplace](https://github.com/farmergreg/vim-lastplace)
+- [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace)
 - [obsession](https://github.com/tpope/vim-obsession)
 - [prosession](https://github.com/dhruvasagar/vim-prosession)
 - [stay](https://github.com/zhimsel/vim-stay)
+- [vim-lastplace](https://github.com/farmergreg/vim-lastplace)
 - [workspace](https://github.com/thaerkh/vim-workspace)
 
 ### Snippets
