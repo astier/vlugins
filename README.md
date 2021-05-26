@@ -230,6 +230,7 @@ doesn't mean I abandoned this repo.
 - [coc-git](https://github.com/neoclide/coc-git)
 - [committia](https://github.com/rhysd/committia.vim)
 - [conflicted](https://github.com/christoomey/vim-conflicted)
+- [diffchar](https://github.com/rickhowe/diffchar.vim)
 - [diffview](https://github.com/sindrets/diffview.nvim)
 - [dirdiff](https://github.com/will133/vim-dirdiff)
 - [extradite](https://github.com/int3/vim-extradite)
