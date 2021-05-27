@@ -175,6 +175,7 @@ doesn't mean I abandoned this repo.
 - [autosource](https://github.com/jenterkin/vim-autosource)
 - [easydir](https://github.com/duggiefresh/vim-easydir)
 - [eunuch](https://github.com/tpope/vim-eunuch)
+- [fetch](https://github.com/wsdjeg/vim-fetch)
 - [fwatch](https://github.com/rktjmp/fwatch.nvim)
 - [jumpwire](https://github.com/micmine/jumpwire.nvim)
 - [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
