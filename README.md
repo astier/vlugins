@@ -249,6 +249,7 @@ doesn't mean I abandoned this repo.
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
 - [gitlinker](https://github.com/ruifm/gitlinker.nvim)
 - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- [gitv](https://github.com/gregsexton/gitv)
 - [gv](https://github.com/junegunn/gv.vim)
 - [linediff](https://github.com/AndrewRadev/linediff.vim)
 - [mergetool](https://github.com/samoshkin/vim-mergetool)
