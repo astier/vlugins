@@ -601,6 +601,7 @@ doesn't mean I abandoned this repo.
 ### Tmux
 
 - [Navigator](https://github.com/numToStr/Navigator.nvim)
+- [tbobe](https://github.com/tpope/vim-tbone)
 - [tmux-complete](https://github.com/wellle/tmux-complete.vim)
 - [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
