@@ -488,10 +488,12 @@ doesn't mean I abandoned this repo.
 
 - [ack](https://github.com/mileszs/ack.vim)
 - [ctrlsf](https://github.com/dyng/ctrlsf.vim)
+- [evanesco](https://github.com/pgdouyon/vim-evanesco)
 - [far](https://github.com/brooth/far.vim)
 - [ferret](https://github.com/wincent/ferret)
 - [grepper](https://github.com/mhinz/vim-grepper)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
+- [slash](https://github.com/junegunn/vim-slash)
 - [spectre](https://github.com/windwp/nvim-spectre)
 - [visual-multi](https://github.com/mg979/vim-visual-multi)
 - [visual-star-search](https://github.com/bronson/vim-visual-star-search)
