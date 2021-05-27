@@ -136,6 +136,7 @@ doesn't mean I abandoned this repo.
 ### Editing
 
 - [argwrap](https://github.com/FooSoft/vim-argwrap)
+- [cosco](https://github.com/lfilho/cosco.vim)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
 - [pasta](https://github.com/sickill/vim-pasta)
