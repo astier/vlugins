@@ -445,6 +445,7 @@ doesn't mean I abandoned this repo.
 - [asyncrun](https://github.com/skywind3000/asyncrun.vim)
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [dispatch](https://github.com/tpope/vim-dispatch)
+- [enmasse](https://github.com/Olical/vim-enmasse)
 - [jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
