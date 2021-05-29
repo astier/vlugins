@@ -440,6 +440,7 @@ doesn't mean I abandoned this repo.
 - [paq](https://github.com/savq/paq-nvim)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 - [plug](https://github.com/junegunn/vim-plug)
+- [volt](https://github.com/vim-volt/volt)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 
 ### Quickfix
