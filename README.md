@@ -114,6 +114,7 @@ doesn't mean I abandoned this repo.
 - [coq](https://github.com/ms-jpq/kok.nvim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
+- [usnip](https://github.com/hauleth/usnip.vim)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 
