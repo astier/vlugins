@@ -91,6 +91,7 @@ doesn't mean I abandoned this repo.
 - [mru](https://github.com/yegappan/mru)
 - [scratch](https://github.com/mtth/scratch.vim)
 - [wheel](https://github.com/chimay/wheel)
+- [workspace](https://github.com/dosimple/workspace.vim)
 
 ### Comments
 
