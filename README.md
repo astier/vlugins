@@ -496,6 +496,7 @@ doesn't mean I abandoned this repo.
 - [far](https://github.com/brooth/far.vim)
 - [ferret](https://github.com/wincent/ferret)
 - [grepper](https://github.com/mhinz/vim-grepper)
+- [searchhi](https://github.com/qxxxb/vim-searchhi)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
 - [slash](https://github.com/junegunn/vim-slash)
 - [spectre](https://github.com/windwp/nvim-spectre)
