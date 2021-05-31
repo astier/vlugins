@@ -42,6 +42,7 @@ doesn't mean I abandoned this repo.
 - [Quickfix](#quickfix)
 - [Registers](#registers)
 - [REPL](#repl)
+- [Runner](#runner)
 - [Scrolling](#scrolling)
 - [Search & Replace](#search--replace)
 - [Session-Management](#session-management)
@@ -369,7 +370,6 @@ doesn't mean I abandoned this repo.
 
 ### Miscellaneous
 
-- [actions](https://github.com/amirrezaask/actions.nvim)
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
@@ -481,6 +481,11 @@ doesn't mean I abandoned this repo.
 - [vimux](https://github.com/preservim/vimux)
 - [visualrun](https://github.com/thezeroalpha/vim-visualrun)
 - [vsh](https://github.com/hardenedapple/vsh)
+
+### Runner
+
+- [actions](https://github.com/amirrezaask/actions.nvim)
+- [asynctasks](https://github.com/skywind3000/asynctasks.vim)
 
 ### Scrolling
 
