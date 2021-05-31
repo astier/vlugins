@@ -277,6 +277,7 @@ doesn't mean I abandoned this repo.
 - [ditto](https://github.com/dbmrq/vim-ditto)
 - [expand-region](https://github.com/terryma/vim-expand-region)
 - [highlightedyank](https://github.com/machakann/vim-highlightedyank)
+- [HighStr](https://github.com/Pocco81/HighStr.nvim)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
