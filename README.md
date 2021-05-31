@@ -399,6 +399,7 @@ doesn't mean I abandoned this repo.
 - [sneak](https://github.com/justinmk/vim-sneak)
 - [vimprovisor](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
+- [zero](https://github.com/yuki-yano/zero.nvim)
 
 ### Objects
 
