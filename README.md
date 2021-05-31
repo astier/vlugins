@@ -283,6 +283,7 @@ doesn't mean I abandoned this repo.
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
+- [noclc](https://github.com/Pocco81/NoCLC.nvim)
 - [numb](https://github.com/nacro90/numb.nvim)
 - [overlength](https://github.com/tjdevries/overlength.vim)
 - [pinnacle](https://github.com/wincent/pinnacle)
