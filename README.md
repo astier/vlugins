@@ -534,6 +534,7 @@ doesn't mean I abandoned this repo.
 - [snippets](https://github.com/norcalli/snippets.nvim)
 - [ultisnips](https://github.com/SirVer/ultisnips)
 - [vsnip](https://github.com/hrsh7th/vim-vsnip)
+- [xptemplate](https://github.com/drmingdrmer/xptemplate)
 
 ### Spelling
 
