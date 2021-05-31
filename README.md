@@ -239,6 +239,7 @@ doesn't mean I abandoned this repo.
 - [dirdiff](https://github.com/will133/vim-dirdiff)
 - [extradite](https://github.com/int3/vim-extradite)
 - [flog](https://github.com/rbong/vim-flog)
+- [fugitive-extended](https://github.com/tommcdo/vim-fugitive-blame-ext)
 - [fugitive](https://github.com/tpope/vim-fugitive)
 - [fzf-checkout](https://github.com/stsewd/fzf-checkout.vim)
 - [gina](https://github.com/lambdalisue/gina.vim)
