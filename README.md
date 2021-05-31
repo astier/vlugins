@@ -328,6 +328,7 @@ doesn't mean I abandoned this repo.
 
 ### LSP-Extensions
 
+- [floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview)
 - [fzf-lsp](https://github.com/gfanto/fzf-lsp.nvim)
 - [lightbulb](https://github.com/kosayoda/nvim-lightbulb)
 - [lint](https://github.com/mfussenegger/nvim-lint)
