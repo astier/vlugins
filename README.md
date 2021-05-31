@@ -87,6 +87,7 @@ doesn't mean I abandoned this repo.
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
+- [jabs](https://github.com/matbme/JABS.nvim)
 - [mru](https://github.com/yegappan/mru)
 - [scratch](https://github.com/mtth/scratch.vim)
 - [wheel](https://github.com/chimay/wheel)
