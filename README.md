@@ -78,6 +78,7 @@ doesn't mean I abandoned this repo.
 - [auto-save](https://github.com/907th/vim-auto-save)
 - [bbye](https://github.com/moll/vim-bbye)
 - [bswap](https://github.com/natdm/bswap)
+- [bufdelete](https://github.com/famiu/bufdelete.nvim)
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
 - [buffer-tree-explorer](https://github.com/el-iot/buffer-tree-explorer)
 - [buffer-tree](https://github.com/el-iot/buffer-tree)
