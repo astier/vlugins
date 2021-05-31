@@ -530,6 +530,7 @@ doesn't mean I abandoned this repo.
 - [coc-spell-checker](https://github.com/iamcco/coc-spell-checker)
 - [codespell](https://github.com/shinglyu/vim-codespell)
 - [grammarous](https://github.com/rhysd/vim-grammarous)
+- [ISuckAtSpelling](https://github.com/Pocco81/ISuckAtSpelling.nvim)
 - [LanguageTool](https://github.com/dpelle/vim-LanguageTool)
 - [lexical](https://github.com/reedes/vim-lexical)
 - [SpellCheck](https://github.com/inkarkat/vim-SpellCheck)
