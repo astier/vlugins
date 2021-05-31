@@ -369,6 +369,7 @@ doesn't mean I abandoned this repo.
 
 ### Miscellaneous
 
+- [actions](https://github.com/amirrezaask/actions.nvim)
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
