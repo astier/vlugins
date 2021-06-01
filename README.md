@@ -439,6 +439,7 @@ doesn't mean I abandoned this repo.
 - [lexima](https://github.com/cohama/lexima.vim)
 - [pear-tree](https://github.com/tmsvg/pear-tree)
 - [pears](https://github.com/steelsojka/pears.nvim)
+- [smartinput](https://github.com/kana/vim-smartinput)
 - [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 
 ### Plugin-Manager
