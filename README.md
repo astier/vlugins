@@ -437,6 +437,7 @@ doesn't mean I abandoned this repo.
 - [emmet](https://github.com/mattn/emmet-vim)
 - [endwise](https://github.com/tpope/vim-endwise)
 - [lexima](https://github.com/cohama/lexima.vim)
+- [lh-brackets](https://github.com/LucHermitte/lh-brackets)
 - [pear-tree](https://github.com/tmsvg/pear-tree)
 - [pears](https://github.com/steelsojka/pears.nvim)
 - [smartinput](https://github.com/kana/vim-smartinput)
