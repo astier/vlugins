@@ -374,6 +374,7 @@ doesn't mean I abandoned this repo.
 
 ### Miscellaneous
 
+- [apathy](https://github.com/tpope/vim-apathy)
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
