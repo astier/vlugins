@@ -599,6 +599,7 @@ doesn't mean I abandoned this repo.
 ### Tags
 
 - [gutentags](https://github.com/ludovicchabant/vim-gutentags)
+- [gutentags_plus](https://github.com/skywind3000/gutentags_plus)
 - [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
 - [tagbar](https://github.com/preservim/tagbar)
 - [vista](https://github.com/liuchengxu/vista.vim)
