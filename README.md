@@ -572,6 +572,7 @@ doesn't mean I abandoned this repo.
 - [battery](https://github.com/lambdalisue/battery.vim)
 - [bubbly](https://github.com/datwaft/bubbly.nvim)
 - [crystalline](https://github.com/rbong/vim-crystalline)
+- [eleline](https://github.com/liuchengxu/eleline.vim)
 - [express\_line](https://github.com/tjdevries/express_line.nvim)
 - [feline](https://github.com/Famiu/feline.nvim)
 - [galaxyline](https://github.com/glepnir/galaxyline.nvim)
