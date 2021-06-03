@@ -401,6 +401,7 @@ doesn't mean I abandoned this repo.
 - [matchup](https://github.com/andymass/vim-matchup)
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
+- [sort-motion](https://github.com/christoomey/vim-sort-motion)
 - [vimprovisor](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
 - [zero](https://github.com/yuki-yano/zero.nvim)
