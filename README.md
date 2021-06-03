@@ -150,6 +150,7 @@ doesn't mean I abandoned this repo.
 - [radical](https://github.com/glts/vim-radical)
 - [revJ](https://github.com/AckslD/nvim-revJ.lua)
 - [sideways](https://github.com/AndrewRadev/sideways.vim)
+- [split-line](https://github.com/drzel/vim-split-line)
 - [splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
 - [SQL-UPPER](https://github.com/Jorengarenar/vim-SQL-UPPER)
 - [stabs](https://github.com/Thyrum/vim-stabs)
