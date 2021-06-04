@@ -160,6 +160,7 @@ doesn't mean I abandoned this repo.
 ### File-Explorer
 
 - [bolt](https://github.com/ripxorip/bolt.nvim)
+- [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [chadtree](https://github.com/ms-jpq/chadtree)
 - [coc-explorer](https://github.com/weirongxu/coc-explorer)
 - [defx](https://github.com/Shougo/defx.nvim)
