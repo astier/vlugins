@@ -5,9 +5,6 @@ If you would like to add a plugin, create a new category or improve the list in
 any other way please create an issue or PR. If there are good reasons I am also
 willing to delete plugins. Gotta keep it clean.
 
-I try to update this repo weekly or monthly. Inactivity for up to a month
-doesn't mean I abandoned this repo.
-
 ### Table of Contents
 
 - [Alignment](#alignment)
