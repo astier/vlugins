@@ -78,6 +78,7 @@ willing to delete plugins. Gotta keep it clean.
 - [bswap](https://github.com/natdm/bswap)
 - [bufdelete](https://github.com/famiu/bufdelete.nvim)
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
+- [buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)
 - [buffer-tree-explorer](https://github.com/el-iot/buffer-tree-explorer)
 - [buffer-tree](https://github.com/el-iot/buffer-tree)
 - [bufkill](https://github.com/qpkorr/vim-bufkill)
