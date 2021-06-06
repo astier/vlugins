@@ -75,6 +75,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [auto-save](https://github.com/907th/vim-auto-save)
 - [bbye](https://github.com/moll/vim-bbye)
+- [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [bswap](https://github.com/natdm/bswap)
 - [bufdelete](https://github.com/famiu/bufdelete.nvim)
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
@@ -158,7 +159,6 @@ willing to delete plugins. Gotta keep it clean.
 ### File-Explorer
 
 - [bolt](https://github.com/ripxorip/bolt.nvim)
-- [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [chadtree](https://github.com/ms-jpq/chadtree)
 - [coc-explorer](https://github.com/weirongxu/coc-explorer)
 - [defx](https://github.com/Shougo/defx.nvim)
