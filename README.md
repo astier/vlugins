@@ -99,10 +99,8 @@ willing to delete plugins. Gotta keep it clean.
 - [comment](https://github.com/terrortylor/nvim-comment)
 - [commentary](https://github.com/tpope/vim-commentary)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
-- [doge](https://github.com/kkoomen/vim-doge)
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
-- [prodoc](https://github.com/glepnir/prodoc.nvim)
 - [todo-comments](https://github.com/folke/todo-comments.nvim)
 - [ts-context-commentstring](ts-context-commentstring)
 
@@ -137,6 +135,11 @@ willing to delete plugins. Gotta keep it clean.
 - [vdebug](https://github.com/vim-vdebug/vdebug)
 - [vim-dap](https://github.com/dradtke/vim-dap)
 - [vimspector](https://github.com/puremourning/vimspector)
+
+### Documentation
+- [doge](https://github.com/kkoomen/vim-doge)
+- [prodoc](https://github.com/glepnir/prodoc.nvim)
+- [tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs)
 
 ### Editing
 
