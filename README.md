@@ -418,6 +418,7 @@ willing to delete plugins. Gotta keep it clean.
 - [targets](https://github.com/wellle/targets.vim)
 - [textobj-user](https://github.com/kana/vim-textobj-user)
 - [textobj-word-column](https://github.com/coderifous/textobj-word-column.vim)
+- [textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects)
 - [treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 
 ### Operations
