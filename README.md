@@ -131,6 +131,7 @@ willing to delete plugins. Gotta keep it clean.
 
 ### Debugger
 
+- [DAPInstall](https://github.com/Pocco81/DAPInstall.nvim)
 - [gdb](https://github.com/sakhnik/nvim-gdb)
 - [nvim-dap](https://github.com/mfussenegger/nvim-dap)
 - [vdebug](https://github.com/vim-vdebug/vdebug)
