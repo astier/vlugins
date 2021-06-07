@@ -378,6 +378,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [apathy](https://github.com/tpope/vim-apathy)
 - [boilit](https://github.com/gennaro-tedesco/boilit)
+- [cheovim](https://github.com/NTBBloodbath/cheovim)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
