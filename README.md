@@ -142,6 +142,7 @@ willing to delete plugins. Gotta keep it clean.
 - [argwrap](https://github.com/FooSoft/vim-argwrap)
 - [cosco](https://github.com/lfilho/cosco.vim)
 - [iswap](https://github.com/mizlan/iswap.nvim/)
+- [lists](https://github.com/lervag/lists.vim)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
 - [pasta](https://github.com/sickill/vim-pasta)
@@ -336,6 +337,7 @@ willing to delete plugins. Gotta keep it clean.
 
 - [floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview)
 - [fzf-lsp](https://github.com/gfanto/fzf-lsp.nvim)
+- [goto-preview](https://github.com/rmagatti/goto-preview)
 - [lightbulb](https://github.com/kosayoda/nvim-lightbulb)
 - [lint](https://github.com/mfussenegger/nvim-lint)
 - [lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp)
