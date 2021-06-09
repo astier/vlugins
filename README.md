@@ -137,6 +137,7 @@ willing to delete plugins. Gotta keep it clean.
 - [vimspector](https://github.com/puremourning/vimspector)
 
 ### Documentation
+
 - [doge](https://github.com/kkoomen/vim-doge)
 - [prodoc](https://github.com/glepnir/prodoc.nvim)
 - [tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs)
@@ -227,6 +228,7 @@ willing to delete plugins. Gotta keep it clean.
 - [oneterm](https://github.com/LoricAndre/oneterm)
 - [quickpick](https://github.com/prabirshrestha/quickpick.vim)
 - [skim](https://github.com/lotabout/skim.vim)
+- [snap](https://github.com/camspiers/snap)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
 
 ### Games
