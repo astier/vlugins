@@ -181,6 +181,7 @@
 ### Files & Directories
 
 - [autosource](https://github.com/jenterkin/vim-autosource)
+- [batchy](https://github.com/arp242/batchy.vim)
 - [easydir](https://github.com/duggiefresh/vim-easydir)
 - [eunuch](https://github.com/tpope/vim-eunuch)
 - [fetch](https://github.com/wsdjeg/vim-fetch)
