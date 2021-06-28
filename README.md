@@ -326,6 +326,7 @@
 - [cellmode](https://github.com/julienr/vim-cellmode)
 - [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
 - [jukit](https://github.com/luk400/vim-jukit)
+- [jupyter](https://github.com/ahmedkhalf/jupyter-nvim)
 
 ### LSP
 
