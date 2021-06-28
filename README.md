@@ -404,6 +404,7 @@
 - [hop](https://github.com/phaazon/hop.nvim)
 - [indentwise](https://github.com/jeetsukumaran/vim-indentwise)
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
+- [lightspeed](https://github.com/ggandor/lightspeed.nvim)
 - [matchup](https://github.com/andymass/vim-matchup)
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
