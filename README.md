@@ -642,6 +642,7 @@
 - [tmux-complete](https://github.com/wellle/tmux-complete.vim)
 - [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
+- [tmux](https://github.com/aserowy/tmux.nvim)
 - [vimux](https://github.com/preservim/vimux)
 
 ### Undotree
