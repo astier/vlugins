@@ -70,6 +70,7 @@
 ### Buffers
 
 - [auto-save](https://github.com/907th/vim-auto-save)
+- [AutoSave](https://github.com/Pocco81/AutoSave.nvim)
 - [bbye](https://github.com/moll/vim-bbye)
 - [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [bswap](https://github.com/natdm/bswap)
