@@ -141,6 +141,7 @@
 
 ### Editing
 
+- [anywise-reg](https://github.com/AckslD/nvim-anywise-reg.lua)
 - [argwrap](https://github.com/FooSoft/vim-argwrap)
 - [cosco](https://github.com/lfilho/cosco.vim)
 - [iswap](https://github.com/mizlan/iswap.nvim/)
