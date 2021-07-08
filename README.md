@@ -390,6 +390,7 @@
 - [hardtime](https://github.com/takac/vim-hardtime)
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
+- [notmuch](https://github.com/felipec/notmuch-vim)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [polyglot](https://github.com/sheerun/vim-polyglot)
 - [presence](https://github.com/andweeb/presence.nvim)
