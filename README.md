@@ -682,6 +682,7 @@
 - [neorg](https://github.com/vhyrro/neorg)
 - [neuron.nvim](https://github.com/oberblastmeister/neuron.nvim)
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
+- [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim)
 - [orgmode](https://github.com/jceb/vim-orgmode)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
