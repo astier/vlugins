@@ -609,6 +609,7 @@
 - [buffet](https://github.com/bagrat/vim-buffet)
 - [buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim)
 - [buftabline.vim](https://github.com/ap/vim-buftabline)
+- [luatab](https://github.com/alvarosevilla95/luatab.nvim)
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
 
