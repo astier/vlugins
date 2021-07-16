@@ -630,6 +630,7 @@
 - [multiterm](https://github.com/chengzeyi/multiterm.vim)
 - [neomux](https://github.com/nikvdp/neomux)
 - [neoterm](https://github.com/kassio/neoterm)
+- [nterm](https://github.com/jlesquembre/nterm.nvim)
 - [stt](https://github.com/toniz4/vim-stt)
 - [termbufm](https://github.com/mizlan/termbufm)
 - [termwrapper](https://github.com/oberblastmeister/termwrapper.nvim)
