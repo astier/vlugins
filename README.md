@@ -109,7 +109,7 @@
 - [completion](https://github.com/nvim-lua/completion-nvim)
 - [completor](https://github.com/maralla/completor.vim)
 - [Comrade](https://github.com/beeender/Comrade)
-- [coq](https://github.com/ms-jpq/kok.nvim)
+- [coq](https://github.com/ms-jpq/coq_nvim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
 - [usnip](https://github.com/hauleth/usnip.vim)
