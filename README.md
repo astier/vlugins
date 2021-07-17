@@ -112,7 +112,6 @@
 - [coq](https://github.com/ms-jpq/coq_nvim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
-- [usnip](https://github.com/hauleth/usnip.vim)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 
@@ -554,6 +553,7 @@
 - [snipmate](https://github.com/garbas/vim-snipmate)
 - [snippets](https://github.com/norcalli/snippets.nvim)
 - [ultisnips](https://github.com/SirVer/ultisnips)
+- [usnip](https://github.com/hauleth/usnip.vim)
 - [vsnip](https://github.com/hrsh7th/vim-vsnip)
 - [xptemplate](https://github.com/drmingdrmer/xptemplate)
 
