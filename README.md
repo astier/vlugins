@@ -671,8 +671,10 @@
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
+- [twilight](https://github.com/folke/twilight.nvim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
+- [zen-mode](https://github.com/folke/zen-mode.nvim)
 
 ### Wikis & Notes
 
