@@ -93,6 +93,7 @@
 
 - [caw](https://github.com/tyru/caw.vim)
 - [commaround](https://github.com/gennaro-tedesco/nvim-commaround)
+- [comment-frame](https://github.com/s1n7ax/nvim-comment-frame)
 - [comment](https://github.com/terrortylor/nvim-comment)
 - [commentary](https://github.com/tpope/vim-commentary)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
