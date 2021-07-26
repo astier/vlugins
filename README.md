@@ -143,6 +143,8 @@
 
 - [anywise-reg](https://github.com/AckslD/nvim-anywise-reg.lua)
 - [argwrap](https://github.com/FooSoft/vim-argwrap)
+- [color-converter](https://github.com/NTBBloodbath/color-converter.nvim)
+- [conver-color-to](https://github.com/amadeus/vim-convert-color-to)
 - [cosco](https://github.com/lfilho/cosco.vim)
 - [iswap](https://github.com/mizlan/iswap.nvim/)
 - [lists](https://github.com/lervag/lists.vim)
@@ -633,6 +635,7 @@
 - [FTerm](https://github.com/numToStr/FTerm.nvim)
 - [multiterm](https://github.com/chengzeyi/multiterm.vim)
 - [neomux](https://github.com/nikvdp/neomux)
+- [neoterm.nvim](https://github.com/itmecho/neoterm.nvim)
 - [neoterm](https://github.com/kassio/neoterm)
 - [nterm](https://github.com/jlesquembre/nterm.nvim)
 - [stt](https://github.com/toniz4/vim-stt)
