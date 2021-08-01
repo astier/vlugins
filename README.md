@@ -82,6 +82,8 @@
 - [bufkill](https://github.com/qpkorr/vim-bufkill)
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
+- [close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim)
+- [close-buffers.vim](https://github.com/Asheq/close-buffers.vim)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [jabs](https://github.com/matbme/JABS.nvim)
 - [mru](https://github.com/yegappan/mru)
@@ -418,6 +420,7 @@
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
 - [sort-motion](https://github.com/christoomey/vim-sort-motion)
+- [tabout](https://github.com/abecodes/tabout.nvim)
 - [vimprovisor](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
 - [zero](https://github.com/yuki-yano/zero.nvim)
@@ -683,6 +686,7 @@
 - [twilight](https://github.com/folke/twilight.nvim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
+- [wilder](https://github.com/gelguy/wilder.nvim)
 - [zen-mode](https://github.com/folke/zen-mode.nvim)
 
 ### Wikis & Notes
@@ -710,6 +714,7 @@
 - [focus](https://github.com/beauwilliams/focus.nvim)
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
+- [swap-buffers](https://github.com/caenrique/swap-buffers.nvim)
 - [visual-split](https://github.com/wellle/visual-split.vim)
 - [window](https://gitlab.com/yorickpeterse/nvim-window)
 - [windowswap](https://github.com/wesQ3/vim-windowswap)
