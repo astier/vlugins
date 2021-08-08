@@ -43,8 +43,8 @@
 - [Spelling](#spelling)
 - [Statistics](#statistics)
 - [Statusline](#statusline)
+- [Symbols/Tags](#symbolstags)
 - [Tab-/Buffer-line](#tab-buffer-line)
-- [Tags](#tags)
 - [Terminal](#terminal)
 - [Tests](#tests)
 - [Tmux](#tmux)
@@ -609,6 +609,15 @@
 - [tpipeline](https://github.com/vimpostor/vim-tpipeline)
 - [windline](https://github.com/windwp/windline.nvim)
 
+### Symbols/Tags
+
+- [aerial](https://github.com/stevearc/aerial.nvim)
+- [gutentags](https://github.com/ludovicchabant/vim-gutentags)
+- [gutentags_plus](https://github.com/skywind3000/gutentags_plus)
+- [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
+- [tagbar](https://github.com/preservim/tagbar)
+- [vista](https://github.com/liuchengxu/vista.vim)
+
 ### Tab-/Buffer-line
 
 - [airline](https://github.com/vim-airline/vim-airline)
@@ -621,15 +630,6 @@
 - [luatab](https://github.com/alvarosevilla95/luatab.nvim)
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
-
-### Tags
-
-- [aerial](https://github.com/stevearc/aerial.nvim)
-- [gutentags](https://github.com/ludovicchabant/vim-gutentags)
-- [gutentags_plus](https://github.com/skywind3000/gutentags_plus)
-- [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
-- [tagbar](https://github.com/preservim/tagbar)
-- [vista](https://github.com/liuchengxu/vista.vim)
 
 ### Terminal
 
