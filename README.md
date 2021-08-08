@@ -624,6 +624,7 @@
 
 ### Tags
 
+- [aerial](https://github.com/stevearc/aerial.nvim)
 - [gutentags](https://github.com/ludovicchabant/vim-gutentags)
 - [gutentags_plus](https://github.com/skywind3000/gutentags_plus)
 - [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
