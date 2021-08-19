@@ -334,6 +334,7 @@
 ### Jupyter/Ipython
 
 - [cellmode](https://github.com/julienr/vim-cellmode)
+- [ipy](https://github.com/bfredl/nvim-ipy)
 - [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
 - [jukit](https://github.com/luk400/vim-jukit)
 - [jupyter](https://github.com/ahmedkhalf/jupyter-nvim)
