@@ -88,6 +88,7 @@
 - [jabs](https://github.com/matbme/JABS.nvim)
 - [mru](https://github.com/yegappan/mru)
 - [scratch](https://github.com/mtth/scratch.vim)
+- [stickybuf](https://github.com/stevearc/stickybuf.nvim)
 - [wheel](https://github.com/chimay/wheel)
 - [workspace](https://github.com/dosimple/workspace.vim)
 
