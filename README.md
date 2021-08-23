@@ -108,6 +108,7 @@
 ### Completion
 
 - [asyncomplete](https://github.com/prabirshrestha/asyncomplete.vim)
+- [cmp](https://github.com/hrsh7th/nvim-cmp)
 - [coc](https://github.com/neoclide/coc.nvim)
 - [compe](https://github.com/hrsh7th/nvim-compe)
 - [completion](https://github.com/nvim-lua/completion-nvim)
