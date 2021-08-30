@@ -1,5 +1,9 @@
 [vlugins](https://github.com/astier/vlugins) is a categorized list of
 [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plugins.
+Also check out:
+
+- [neovimcraft](https://neovimcraft.com/)
+- [vimawesome](https://vimawesome.com/)
 
 ### Table of Contents
 
@@ -10,6 +14,8 @@
 - [Completion](#completion)
 - [Copy & Yank](#copy--yank)
 - [Debugger](#debugger)
+- [Distraction-Free-Writing](#distraction-free-writing)
+- [Documentation](#documentation)
 - [Editing](#editing)
 - [File-Explorer](#file-explorer)
 - [Files & Directories](#files--directories)
@@ -25,12 +31,14 @@
 - [LSP](#lsp)
 - [LSP-Extensions](#lsp-extensions)
 - [LSP-Like](#lsp-like)
+- [Mappings](#mappings)
 - [Markdown](#markdown)
 - [Miscellaneous](#miscellaneous)
 - [Motions](#motions)
 - [Objects](#objects)
 - [Operations](#operations)
 - [Pair-Closer](#pair-closer)
+- [Plugin-Development](#plugin-development)
 - [Plugin-Manager](#plugin-manager)
 - [Quickfix](#quickfix)
 - [Registers](#registers)
@@ -43,6 +51,7 @@
 - [Spelling](#spelling)
 - [Statistics](#statistics)
 - [Statusline](#statusline)
+- [Statusline-Extensions](#statusline-extensions)
 - [Symbols/Tags](#symbolstags)
 - [Tab-/Buffer-line](#tab-buffer-line)
 - [Terminal](#terminal)
@@ -65,6 +74,7 @@
 - [firenvim](https://github.com/glacambre/firenvim)
 - [open-browser-github](https://github.com/tyru/open-browser-github.vim)
 - [open-browser](https://github.com/tyru/open-browser.vim)
+- [tagurl](https://github.com/jakergrossman/tagurl.vim)
 - [urlview](https://github.com/strboul/urlview.vim)
 
 ### Buffers
@@ -79,6 +89,7 @@
 - [buffer-navigator](https://github.com/tklepzig/vim-buffer-navigator)
 - [buffer-tree-explorer](https://github.com/el-iot/buffer-tree-explorer)
 - [buffer-tree](https://github.com/el-iot/buffer-tree)
+- [bufjump](https://github.com/kwkarlwang/bufjump.nvim)
 - [bufkill](https://github.com/qpkorr/vim-bufkill)
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [bunlink](https://github.com/orlp/vim-bunlink/)
@@ -88,6 +99,7 @@
 - [jabs](https://github.com/matbme/JABS.nvim)
 - [mru](https://github.com/yegappan/mru)
 - [scratch](https://github.com/mtth/scratch.vim)
+- [smartq](https://github.com/marklcrns/vim-smartq)
 - [stickybuf](https://github.com/stevearc/stickybuf.nvim)
 - [wheel](https://github.com/chimay/wheel)
 - [workspace](https://github.com/dosimple/workspace.vim)
@@ -101,6 +113,7 @@
 - [commentary](https://github.com/tpope/vim-commentary)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
+- [log-print](https://github.com/aMOPel/vim-log-print)
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
 - [todo-comments](https://github.com/folke/todo-comments.nvim)
 - [ts-context-commentstring](ts-context-commentstring)
@@ -116,6 +129,7 @@
 - [Comrade](https://github.com/beeender/Comrade)
 - [coq](https://github.com/ms-jpq/coq_nvim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
+- [EasyCompleteYou](https://github.com/JimmyHuang454/EasyCompleteYou)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
@@ -123,8 +137,10 @@
 ### Copy & Yank
 
 - [cutclass](https://github.com/svermeulen/vim-cutlass)
+- [neoclip](https://github.com/AckslD/nvim-neoclip.lua)
 - [oscyank](https://github.com/ojroques/vim-oscyank)
 - [system-copy](https://github.com/christoomey/vim-system-copy)
+- [yank-history](https://github.com/yazgoo/yank-history)
 - [yankstack](https://github.com/maxbrunsfeld/vim-yankstack)
 - [yoink](https://github.com/svermeulen/vim-yoink)
 
@@ -136,6 +152,13 @@
 - [vdebug](https://github.com/vim-vdebug/vdebug)
 - [vim-dap](https://github.com/dradtke/vim-dap)
 - [vimspector](https://github.com/puremourning/vimspector)
+
+### Distraction-Free-Writing
+
+- [ataraxis](https://github.com/henriquehbr/ataraxis.lua)
+- [goyo](https://github.com/junegunn/goyo.vim)
+- [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
+- [zen-mode](https://github.com/folke/zen-mode.nvim)
 
 ### Documentation
 
@@ -150,6 +173,7 @@
 - [color-converter](https://github.com/NTBBloodbath/color-converter.nvim)
 - [conver-color-to](https://github.com/amadeus/vim-convert-color-to)
 - [cosco](https://github.com/lfilho/cosco.vim)
+- [expand-expr](https://github.com/AllenDang/nvim-expand-expr)
 - [iswap](https://github.com/mizlan/iswap.nvim/)
 - [lists](https://github.com/lervag/lists.vim)
 - [move](https://github.com/matze/vim-move)
@@ -158,6 +182,7 @@
 - [peculiar](https://github.com/JRasmusBm/vim-peculiar)
 - [radical](https://github.com/glts/vim-radical)
 - [revJ](https://github.com/AckslD/nvim-revJ.lua)
+- [select-multi-line](https://github.com/Rasukarusan/nvim-select-multi-line)
 - [sideways](https://github.com/AndrewRadev/sideways.vim)
 - [split-line](https://github.com/drzel/vim-split-line)
 - [splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
@@ -165,6 +190,7 @@
 - [stabs](https://github.com/Thyrum/vim-stabs)
 - [table-mode](https://github.com/dhruvasagar/vim-table-mode)
 - [uppercase-sql](https://github.com/jsborjesson/vim-uppercase-sql)
+- [visual-multi](https://github.com/mg979/vim-visual-multi)
 
 ### File-Explorer
 
@@ -197,6 +223,7 @@
 - [jumpwire](https://github.com/micmine/jumpwire.nvim)
 - [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
 - [move](https://github.com/kovetskiy/neovim-move)
+- [project](https://github.com/ahmedkhalf/project.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
 - [rooter](https://github.com/ygm2/rooter.nvim)
 - [vim-rooter](https://github.com/airblade/vim-rooter)
@@ -205,6 +232,7 @@
 
 - [coiled-snake](https://github.com/kalekundert/vim-coiled-snake)
 - [FastFold](https://github.com/Konfekt/FastFold)
+- [fzf-folds](https://github.com/roosta/fzf-folds.vim)
 - [SimplyFold](https://github.com/tmhedberg/SimpylFold)
 
 ### Formatting
@@ -265,6 +293,8 @@
 - [git-blame](https://github.com/f-person/git-blame.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
 - [git-worktree](https://github.com/ThePrimeagen/git-worktree.nvim)
+- [git](https://github.com/dinhhuy258/git.nvim)
+- [git_blame](https://github.com/bobrown101/git_blame.nvim)
 - [gitabra](https://github.com/Odie/gitabra)
 - [gitgutter](https://github.com/airblade/vim-gitgutter)
 - [gitlinker](https://github.com/ruifm/gitlinker.nvim)
@@ -295,6 +325,8 @@
 - [diminactive](https://github.com/blueyed/vim-diminactive)
 - [ditto](https://github.com/dbmrq/vim-ditto)
 - [expand-region](https://github.com/terryma/vim-expand-region)
+- [footprints](https://github.com/axlebedev/footprints)
+- [headlines](https://github.com/lukas-reineke/headlines.nvim)
 - [highlightedyank](https://github.com/machakann/vim-highlightedyank)
 - [HighStr](https://github.com/Pocco81/HighStr.nvim)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
@@ -339,6 +371,7 @@
 - [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
 - [jukit](https://github.com/luk400/vim-jukit)
 - [jupyter](https://github.com/ahmedkhalf/jupyter-nvim)
+- [magma](https://github.com/dccsillag/magma-nvim)
 
 ### LSP
 
@@ -348,6 +381,7 @@
 - [lsc](https://github.com/natebosch/vim-lsc)
 - [lsp](https://github.com/prabirshrestha/vim-lsp)
 - [lspconfig](https://github.com/neovim/nvim-lspconfig)
+- [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim)
 
 ### LSP-Extensions
 
@@ -381,11 +415,18 @@
 - [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [vimtex](https://github.com/lervag/vimtex)
 
+### Mappings
+
+- [cartographer](https://github.com/Iron-E/nvim-cartographer)
+- [mapx](https://github.com/b0o/mapx.nvim)
+- [vim-which-key](https://github.com/liuchengxu/vim-which-key)
+- [which-key.nvim](https://github.com/folke/which-key.nvim)
+
 ### Markdown
 
 - [bullets](https://github.com/dkarter/bullets.vim)
 - [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown)
-- [glow](https://github.com/npxbr/glow.nvim)
+- [glow](https://github.com/ellisonleao/glow.nvim)
 - [instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
 - [markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
@@ -393,21 +434,17 @@
 ### Miscellaneous
 
 - [apathy](https://github.com/tpope/vim-apathy)
-- [boilit](https://github.com/gennaro-tedesco/boilit)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
 - [hydra](https://github.com/brenopacheco/vim-hydra)
+- [instant](https://github.com/jbyuki/instant.nvim)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
+- [nest](https://github.com/LionC/nest.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
-- [plenary](https://github.com/nvim-lua/plenary.nvim)
-- [polyglot](https://github.com/sheerun/vim-polyglot)
 - [presence](https://github.com/andweeb/presence.nvim)
-- [reload](https://github.com/famiu/nvim-reload)
-- [scriptease](https://github.com/tpope/vim-scriptease)
 - [unimpaired](https://github.com/tpope/vim-unimpaired)
-- [vital](https://github.com/vim-jp/vital.vim)
 
 ### Motions
 
@@ -468,11 +505,21 @@
 - [smartinput](https://github.com/kana/vim-smartinput)
 - [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 
+## Plugin-Development
+
+- [boilit](https://github.com/gennaro-tedesco/boilit)
+- [plenary](https://github.com/nvim-lua/plenary.nvim)
+- [refactorvim](https://github.com/hupfdule/refactorvim)
+- [scriptease](https://github.com/tpope/vim-scriptease)
+- [sqlite](https://github.com/tami5/sqlite.lua)
+- [vital](https://github.com/vim-jp/vital.vim)
+
 ### Plugin-Manager
 
 - [dein](https://github.com/Shougo/dein.vim)
 - [minpac](https://github.com/k-takata/minpac)
 - [minPlug](https://github.com/Jorengarenar/minPlug)
+- [package-info](https://github.com/vuki656/package-info.nvim)
 - [packager](https://github.com/kristijanhusak/vim-packager)
 - [packer](https://github.com/wbthomason/packer.nvim)
 - [paq](https://github.com/savq/paq-nvim)
@@ -483,7 +530,6 @@
 
 ### Quickfix
 
-- [asyncrun](https://github.com/skywind3000/asyncrun.vim)
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [dispatch](https://github.com/tpope/vim-dispatch)
 - [enmasse](https://github.com/Olical/vim-enmasse)
@@ -506,10 +552,8 @@
 - [estream](https://github.com/JoshMcguigan/estream)
 - [iron](https://github.com/hkupty/iron.nvim)
 - [rest](https://github.com/NTBBloodbath/rest.nvim)
-- [run](https://github.com/ledesmablt/vim-run)
 - [runbuf](https://github.com/arp242/runbuf.vim)
 - [slime](https://github.com/jpalardy/vim-slime)
-- [sniprun](https://github.com/michaelb/sniprun)
 - [terminator](https://github.com/erietz/vim-terminator)
 - [vimcmdline](https://github.com/jalvesaq/vimcmdline)
 - [vimux](https://github.com/preservim/vimux)
@@ -519,7 +563,14 @@
 ### Runner
 
 - [actions](https://github.com/amirrezaask/actions.nvim)
+- [asyncrun](https://github.com/skywind3000/asyncrun.vim)
 - [asynctasks](https://github.com/skywind3000/asynctasks.vim)
+- [clam](https://github.com/sjl/clam.vim)
+- [code_runner](https://github.com/CRAG666/code_runner.nvim)
+- [mdeval](https://github.com/jubnzv/mdeval.nvim)
+- [run](https://github.com/ledesmablt/vim-run)
+- [sniprun](https://github.com/michaelb/sniprun)
+- [tasks](https://github.com/mg979/tasks.vim)
 
 ### Scrolling
 
@@ -539,11 +590,13 @@
 - [far](https://github.com/brooth/far.vim)
 - [ferret](https://github.com/wincent/ferret)
 - [grepper](https://github.com/mhinz/vim-grepper)
+- [nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace)
 - [searchhi](https://github.com/qxxxb/vim-searchhi)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
 - [slash](https://github.com/junegunn/vim-slash)
 - [spectre](https://github.com/windwp/nvim-spectre)
-- [visual-multi](https://github.com/mg979/vim-visual-multi)
+- [starlite](https://github.com/ironhouzi/starlite-nvim)
+- [stim](https://github.com/ironhouzi/vim-stim)
 - [visual-star-search](https://github.com/bronson/vim-visual-star-search)
 
 ### Session-Management
@@ -560,6 +613,7 @@
 
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - [miniSnip](https://github.com/Jorengarenar/miniSnip)
+- [snip](https://github.com/quintik/snip)
 - [snipmate](https://github.com/garbas/vim-snipmate)
 - [snippets](https://github.com/norcalli/snippets.nvim)
 - [ultisnips](https://github.com/SirVer/ultisnips)
@@ -587,7 +641,9 @@
 
 - [apm](https://github.com/ThePrimeagen/vim-apm)
 - [plugins-profile](https://github.com/hyiltiz/vim-plugins-profile)
+- [startup](https://github.com/henriquehbr/nvim-startup.lua)
 - [startuptime](https://github.com/tweekmonster/startuptime.vim)
+- [structlog](https://github.com/Tastyep/structlog.nvim)
 - [vim-startuptime](https://github.com/dstein64/vim-startuptime)
 - [wakatime](https://github.com/wakatime/vim-wakatime)
 
@@ -600,18 +656,23 @@
 - [crystalline](https://github.com/rbong/vim-crystalline)
 - [eleline](https://github.com/liuchengxu/eleline.vim)
 - [express\_line](https://github.com/tjdevries/express_line.nvim)
-- [feline](https://github.com/Famiu/feline.nvim)
-- [galaxyline](https://github.com/glepnir/galaxyline.nvim)
+- [feline](https://github.com/famiu/feline.nvim)
+- [glepnir/galaxyline](https://github.com/glepnir/galaxyline.nvim)
 - [hardline](https://github.com/ojroques/nvim-hardline)
 - [lightline](https://github.com/itchyny/lightline.vim)
 - [lualine](https://github.com/hoob3rt/lualine.nvim)
 - [neoline](https://github.com/adelarsq/neoline.vim)
+- [NTBBloodbath/galaxyline](https://github.com/NTBBloodbath/galaxyline.nvim)
 - [onestatus](https://github.com/narajaon/onestatus)
 - [spaceline](https://github.com/glepnir/spaceline.vim)
 - [staline](https://github.com/tamton-aquib/staline.nvim)
 - [statusline](https://github.com/beauwilliams/statusline.lua)
 - [tpipeline](https://github.com/vimpostor/vim-tpipeline)
 - [windline](https://github.com/windwp/windline.nvim)
+
+### Statusline-Extensions
+
+- [gps](https://github.com/SmiteshP/nvim-gps)
 
 ### Symbols/Tags
 
@@ -632,6 +693,8 @@
 - [buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim)
 - [buftabline.vim](https://github.com/ap/vim-buftabline)
 - [luatab](https://github.com/alvarosevilla95/luatab.nvim)
+- [taberian](https://github.com/noscript/taberian.vim)
+- [tabline](https://github.com/kdheepak/tabline.nvim)
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
 
@@ -659,12 +722,13 @@
 
 ### Tmux
 
+- [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim)
+- [nathom/tmux.nvim](https://github.com/nathom/tmux.nvim)
 - [Navigator](https://github.com/numToStr/Navigator.nvim)
 - [tbobe](https://github.com/tpope/vim-tbone)
 - [tmux-complete](https://github.com/wellle/tmux-complete.vim)
 - [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [tmux-runner](https://github.com/christoomey/vim-tmux-runner)
-- [tmux](https://github.com/aserowy/tmux.nvim)
 - [tmuxjump](https://github.com/shivamashtikar/tmuxjump.vim)
 - [vimux](https://github.com/preservim/vimux)
 
@@ -676,23 +740,20 @@
 
 ### UI
 
+- [alpha](https://github.com/goolord/alpha-nvim)
 - [calendar](https://github.com/mattn/calendar-vim)
 - [context](https://github.com/wellle/context.vim)
 - [dashboard](https://github.com/glepnir/dashboard-nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
-- [goyo](https://github.com/junegunn/goyo.vim)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
+- [notify](https://github.com/rcarriga/nvim-notify)
 - [nui](https://github.com/MunifTanjim/nui.nvim)
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [quickui](https://github.com/skywind3000/vim-quickui)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
-- [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
 - [twilight](https://github.com/folke/twilight.nvim)
-- [vim-which-key](https://github.com/liuchengxu/vim-which-key)
-- [which-key.nvim](https://github.com/folke/which-key.nvim)
 - [wilder](https://github.com/gelguy/wilder.nvim)
-- [zen-mode](https://github.com/folke/zen-mode.nvim)
 
 ### Wikis & Notes
 
@@ -707,6 +768,7 @@
 - [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim)
 - [orgmode](https://github.com/jceb/vim-orgmode)
 - [riv](https://github.com/gu-fan/riv.vim)
+- [samwise](https://github.com/rexagod/samwise.nvim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
 - [wiki](https://github.com/lervag/wiki.vim)
 
@@ -723,3 +785,4 @@
 - [visual-split](https://github.com/wellle/visual-split.vim)
 - [window](https://gitlab.com/yorickpeterse/nvim-window)
 - [windowswap](https://github.com/wesQ3/vim-windowswap)
+- [winshift](https://github.com/sindrets/winshift.nvim)
