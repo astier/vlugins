@@ -356,8 +356,10 @@ Also check out:
 
 ### Indentation
 
+- [crazy8](https://github.com/zsugabubus/crazy8.nvim)
 - [detectindent](https://github.com/ciaranm/detectindent)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [indent-o-matic](https://github.com/Darazaki/indent-o-matic)
 - [indentLine](https://github.com/Yggdroot/indentLine)
 - [matchindent](https://github.com/conormcd/matchindent.vim)
 - [sleuth](https://github.com/tpope/vim-sleuth)
@@ -750,6 +752,7 @@ Also check out:
 - [nui](https://github.com/MunifTanjim/nui.nvim)
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [quickui](https://github.com/skywind3000/vim-quickui)
+- [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [twilight](https://github.com/folke/twilight.nvim)
@@ -775,6 +778,7 @@ Also check out:
 ### Windows
 
 - [accordion](https://github.com/mattboehm/vim-accordion)
+- [bufresize](https://github.com/kwkarlwang/bufresize.nvim)
 - [centerpad](https://github.com/smithbm2316/centerpad.nvim)
 - [choosewin](https://github.com/t9md/vim-choosewin)
 - [floating](https://github.com/fhill2/floating.nvim)
