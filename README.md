@@ -445,6 +445,7 @@ Also check out:
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [nest](https://github.com/LionC/nest.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
+- [package-info](https://github.com/vuki656/package-info.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
 - [unimpaired](https://github.com/tpope/vim-unimpaired)
 
@@ -521,7 +522,6 @@ Also check out:
 - [dein](https://github.com/Shougo/dein.vim)
 - [minpac](https://github.com/k-takata/minpac)
 - [minPlug](https://github.com/Jorengarenar/minPlug)
-- [package-info](https://github.com/vuki656/package-info.nvim)
 - [packager](https://github.com/kristijanhusak/vim-packager)
 - [packer](https://github.com/wbthomason/packer.nvim)
 - [paq](https://github.com/savq/paq-nvim)
