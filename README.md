@@ -128,6 +128,7 @@ Also check out:
 - [completor](https://github.com/maralla/completor.vim)
 - [Comrade](https://github.com/beeender/Comrade)
 - [coq](https://github.com/ms-jpq/coq_nvim)
+- [ddc](https://github.com/Shougo/ddc.vim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
 - [EasyCompleteYou](https://github.com/JimmyHuang454/EasyCompleteYou)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
@@ -176,6 +177,7 @@ Also check out:
 - [expand-expr](https://github.com/AllenDang/nvim-expand-expr)
 - [iswap](https://github.com/mizlan/iswap.nvim/)
 - [lists](https://github.com/lervag/lists.vim)
+- [move.nvim](https://github.com/fedepujol/move.nvim)
 - [move](https://github.com/matze/vim-move)
 - [MvVis](https://github.com/Jorengarenar/vim-MvVis)
 - [pasta](https://github.com/sickill/vim-pasta)
@@ -694,6 +696,7 @@ Also check out:
 - [buffet](https://github.com/bagrat/vim-buffet)
 - [buftabline.nvim](https://github.com/jose-elias-alvarez/buftabline.nvim)
 - [buftabline.vim](https://github.com/ap/vim-buftabline)
+- [cokeline](https://github.com/noib3/cokeline.nvim)
 - [luatab](https://github.com/alvarosevilla95/luatab.nvim)
 - [taberian](https://github.com/noscript/taberian.vim)
 - [tabline](https://github.com/kdheepak/tabline.nvim)
@@ -774,6 +777,7 @@ Also check out:
 - [samwise](https://github.com/rexagod/samwise.nvim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
 - [wiki](https://github.com/lervag/wiki.vim)
+- [YANP](https://github.com/boson-joe/YANP)
 
 ### Windows
 
