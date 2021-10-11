@@ -54,6 +54,7 @@ Also check out:
 - [Statusline-Extensions](#statusline-extensions)
 - [Symbols/Tags](#symbolstags)
 - [Tab-/Buffer-line](#tab-buffer-line)
+- [Telescope-Extensions](#telescope-extensions)
 - [Terminal](#terminal)
 - [Tests](#tests)
 - [Tmux](#tmux)
@@ -109,12 +110,14 @@ Also check out:
 - [caw](https://github.com/tyru/caw.vim)
 - [commaround](https://github.com/gennaro-tedesco/nvim-commaround)
 - [comment-frame](https://github.com/s1n7ax/nvim-comment-frame)
+- [Comment](https://github.com/numToStr/Comment.nvim)
 - [comment](https://github.com/terrortylor/nvim-comment)
 - [commentary](https://github.com/tpope/vim-commentary)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
 - [log-print](https://github.com/aMOPel/vim-log-print)
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
+- [tcomment](https://github.com/tomtom/tcomment_vim)
 - [todo-comments](https://github.com/folke/todo-comments.nvim)
 - [ts-context-commentstring](ts-context-commentstring)
 
@@ -207,11 +210,9 @@ Also check out:
 - [molder](https://github.com/mattn/vim-molder)
 - [neofs](https://github.com/TimUntersberger/neofs)
 - [nerdtree](https://github.com/preservim/nerdtree)
-- [nnn](https://github.com/mcchrish/nnn.vim)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
 - [tree](https://github.com/kyazdani42/nvim-tree.lua)
 - [vinegar](https://github.com/tpope/vim-vinegar)
-- [xplr](https://github.com/sayanarijit/xplr.vim)
 - [yanil](https://github.com/Xuyuanp/yanil)
 
 ### Files & Directories
@@ -405,7 +406,6 @@ Also check out:
 - [lsputils](https://github.com/RishabhRD/nvim-lsputils)
 - [navigator](https://github.com/ray-x/navigator.lua)
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
-- [trouble](https://github.com/folke/lsp-trouble.nvim)
 - [virtual-types](https://github.com/jubnzv/virtual-types.nvim)
 
 ### LSP-Like
@@ -421,6 +421,8 @@ Also check out:
 
 ### Mappings
 
+- [better-escape.nvim](https://github.com/max397574/better-escape.nvim)
+- [better-escape.vim](https://github.com/jdhao/better-escape.vim)
 - [cartographer](https://github.com/Iron-E/nvim-cartographer)
 - [mapx](https://github.com/b0o/mapx.nvim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
@@ -538,11 +540,13 @@ Also check out:
 - [dispatch](https://github.com/tpope/vim-dispatch)
 - [enmasse](https://github.com/Olical/vim-enmasse)
 - [jqx](https://github.com/gennaro-tedesco/nvim-jqx)
+- [pqf](https://gitlab.com/yorickpeterse/nvim-pqf)
 - [qf](https://github.com/romainl/vim-qf)
 - [qlist](https://github.com/romainl/vim-qlist)
 - [quickfix-reflector](https://github.com/stefandtw/quickfix-reflector.vim)
 - [replacer](https://github.com/gabrielpoca/replacer.nvim)
 - [toolwindow](https://github.com/EthanJWright/toolwindow.nvim)
+- [trouble](https://github.com/folke/trouble.nvim)
 
 ### Registers
 
@@ -703,6 +707,10 @@ Also check out:
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
 
+### Telescope-Extensions
+
+- [ros](https://github.com/thibthib18/ros-nvim)
+
 ### Terminal
 
 - [bufterm](https://github.com/itmecho/bufterm.nvim)
@@ -753,6 +761,7 @@ Also check out:
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
 - [notify](https://github.com/rcarriga/nvim-notify)
 - [nui](https://github.com/MunifTanjim/nui.nvim)
+- [popui](https://github.com/hood/popui.nvim)
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [quickui](https://github.com/skywind3000/vim-quickui)
 - [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
