@@ -113,6 +113,7 @@ Also check out:
 - [Comment](https://github.com/numToStr/Comment.nvim)
 - [comment](https://github.com/terrortylor/nvim-comment)
 - [commentary](https://github.com/tpope/vim-commentary)
+- [commented](https://github.com/winston0410/commented.nvim)
 - [CommentFrame](https://github.com/cometsong/CommentFrame.vim)
 - [kommentary](https://github.com/b3nj5m1n/kommentary)
 - [log-print](https://github.com/aMOPel/vim-log-print)
