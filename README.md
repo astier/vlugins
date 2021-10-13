@@ -119,7 +119,7 @@ Also check out:
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
 - [tcomment](https://github.com/tomtom/tcomment_vim)
 - [todo-comments](https://github.com/folke/todo-comments.nvim)
-- [ts-context-commentstring](ts-context-commentstring)
+- [ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)
 
 ### Completion
 
