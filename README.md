@@ -447,6 +447,7 @@ Also check out:
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [instant](https://github.com/jbyuki/instant.nvim)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
+- [marks](https://github.com/chentau/marks.nvim)
 - [nest](https://github.com/LionC/nest.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
 - [package-info](https://github.com/vuki656/package-info.nvim)
