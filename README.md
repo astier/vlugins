@@ -597,6 +597,7 @@ Also check out:
 
 - [ack](https://github.com/mileszs/ack.vim)
 - [ctrlsf](https://github.com/dyng/ctrlsf.vim)
+- [easygrep](https://github.com/dkprice/vim-easygrep)
 - [evanesco](https://github.com/pgdouyon/vim-evanesco)
 - [far](https://github.com/brooth/far.vim)
 - [ferret](https://github.com/wincent/ferret)
