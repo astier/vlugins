@@ -711,9 +711,10 @@ Also check out:
 - [cokeline](https://github.com/noib3/cokeline.nvim)
 - [luatab](https://github.com/alvarosevilla95/luatab.nvim)
 - [taberian](https://github.com/noscript/taberian.vim)
-- [tabline](https://github.com/kdheepak/tabline.nvim)
+- [tabline-nvim](https://github.com/kdheepak/tabline.nvim)
 - [tabulous](https://github.com/webdevel/tabulous)
 - [vem-tabline](https://github.com/pacha/vem-tabline)
+- [vim-tabline](https://github.com/lukelbd/vim-tabline)
 
 ### Telescope-Extensions
 
