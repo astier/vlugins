@@ -546,6 +546,7 @@ Also check out:
 - [pqf](https://gitlab.com/yorickpeterse/nvim-pqf)
 - [qf-preview](https://github.com/bfrg/vim-qf-preview)
 - [qf](https://github.com/romainl/vim-qf)
+- [QFEnter](https://github.com/yssl/QFEnter)
 - [qlist](https://github.com/romainl/vim-qlist)
 - [quickfix-reflector](https://github.com/stefandtw/quickfix-reflector.vim)
 - [replacer](https://github.com/gabrielpoca/replacer.nvim)
