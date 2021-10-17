@@ -136,6 +136,7 @@ Also check out:
 - [ddc](https://github.com/Shougo/ddc.vim)
 - [deoplete](https://github.com/Shougo/deoplete.nvim)
 - [EasyCompleteYou](https://github.com/JimmyHuang454/EasyCompleteYou)
+- [lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
