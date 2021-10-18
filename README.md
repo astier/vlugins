@@ -73,7 +73,7 @@ Also check out:
 
 - [devdocs](https://github.com/romainl/vim-devdocs)
 - [firenvim](https://github.com/glacambre/firenvim)
-- [open-browser-github](https://github.com/tyru/open-browser-github.vim)
+- [gx-extended](https://github.com/stsewd/gx-extended.vim)
 - [open-browser](https://github.com/tyru/open-browser.vim)
 - [tagurl](https://github.com/jakergrossman/tagurl.vim)
 - [urlview](https://github.com/strboul/urlview.vim)
@@ -126,6 +126,7 @@ Also check out:
 ### Completion
 
 - [asyncomplete](https://github.com/prabirshrestha/asyncomplete.vim)
+- [AutoComplPop](https://github.com/vim-scripts/AutoComplPop)
 - [cmp](https://github.com/hrsh7th/nvim-cmp)
 - [coc](https://github.com/neoclide/coc.nvim)
 - [compe](https://github.com/hrsh7th/nvim-compe)
@@ -209,6 +210,7 @@ Also check out:
 - [dirvish](https://github.com/justinmk/vim-dirvish)
 - [easytree](https://github.com/troydm/easytree.vim)
 - [fern](https://github.com/lambdalisue/fern.vim)
+- [fm](https://github.com/is0n/fm-nvim)
 - [lir](https://github.com/tamago324/lir.nvim)
 - [molder](https://github.com/mattn/vim-molder)
 - [neofs](https://github.com/TimUntersberger/neofs)
@@ -323,6 +325,7 @@ Also check out:
 
 - [auto-cursorline](https://github.com/delphinus/vim-auto-cursorline)
 - [better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
+- [codepainter](https://github.com/lpinilla/vim-codepainter)
 - [colorizer](https://github.com/norcalli/nvim-colorizer.lua)
 - [cool](https://github.com/romainl/vim-cool)
 - [cursorline](https://github.com/yamatsum/nvim-cursorline)
@@ -378,8 +381,11 @@ Also check out:
 - [ipy](https://github.com/bfredl/nvim-ipy)
 - [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
 - [jukit](https://github.com/luk400/vim-jukit)
-- [jupyter](https://github.com/ahmedkhalf/jupyter-nvim)
+- [jupyter-nvim](https://github.com/ahmedkhalf/jupyter-nvim)
+- [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim)
+- [jupytext](https://github.com/goerz/jupytext.vim)
 - [magma](https://github.com/dccsillag/magma-nvim)
+- [vimpyter](https://github.com/szymonmaszke/vimpyter)
 
 ### LSP
 
@@ -387,6 +393,7 @@ Also check out:
 - [coc](https://github.com/neoclide/coc.nvim)
 - [lamp](https://github.com/hrsh7th/vim-lamp)
 - [lsc](https://github.com/natebosch/vim-lsc)
+- [lsp-installer](https://github.com/williamboman/nvim-lsp-installer)
 - [lsp](https://github.com/prabirshrestha/vim-lsp)
 - [lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim)
@@ -414,6 +421,7 @@ Also check out:
 ### LSP-Like
 
 - [any-jump](https://github.com/pechorin/any-jump.vim)
+- [apathy](https://github.com/tpope/vim-apathy)
 - [go](https://github.com/fatih/vim-go)
 - [jedi](https://github.com/davidhalter/jedi-vim)
 - [ledger](https://github.com/ledger/vim-ledger)
@@ -442,7 +450,6 @@ Also check out:
 
 ### Miscellaneous
 
-- [apathy](https://github.com/tpope/vim-apathy)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
@@ -455,6 +462,7 @@ Also check out:
 - [notmuch](https://github.com/felipec/notmuch-vim)
 - [package-info](https://github.com/vuki656/package-info.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
+- [try](https://github.com/mjlbach/try.nvim)
 - [unimpaired](https://github.com/tpope/vim-unimpaired)
 
 ### Motions
@@ -472,7 +480,7 @@ Also check out:
 - [sneak](https://github.com/justinmk/vim-sneak)
 - [sort-motion](https://github.com/christoomey/vim-sort-motion)
 - [tabout](https://github.com/abecodes/tabout.nvim)
-- [vimprovisor](https://github.com/egzvor/vimproviser)
+- [vimproviser](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
 - [zero](https://github.com/yuki-yano/zero.nvim)
 
@@ -491,7 +499,6 @@ Also check out:
 
 - [exchange](https://github.com/tommcdo/vim-exchange)
 - [express](https://github.com/tommcdo/vim-express)
-- [gx-extended](https://github.com/stsewd/gx-extended.vim)
 - [repeat](https://github.com/tpope/vim-repeat)
 - [ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister)
 - [sandwich](https://github.com/machakann/vim-sandwich)
@@ -519,6 +526,7 @@ Also check out:
 ## Plugin-Development
 
 - [boilit](https://github.com/gennaro-tedesco/boilit)
+- [hp](https://github.com/dokwork/vim-hp)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [refactorvim](https://github.com/hupfdule/refactorvim)
 - [scriptease](https://github.com/tpope/vim-scriptease)
@@ -541,7 +549,6 @@ Also check out:
 ### Quickfix
 
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
-- [dispatch](https://github.com/tpope/vim-dispatch)
 - [enmasse](https://github.com/Olical/vim-enmasse)
 - [jqx](https://github.com/gennaro-tedesco/nvim-jqx)
 - [pqf](https://gitlab.com/yorickpeterse/nvim-pqf)
@@ -581,10 +588,15 @@ Also check out:
 - [asynctasks](https://github.com/skywind3000/asynctasks.vim)
 - [clam](https://github.com/sjl/clam.vim)
 - [code_runner](https://github.com/CRAG666/code_runner.nvim)
+- [dispatch](https://github.com/tpope/vim-dispatch)
+- [jobsplit](https://gitlab.com/Groctel/jobsplit.nvim)
 - [mdeval](https://github.com/jubnzv/mdeval.nvim)
+- [neomake](https://github.com/neomake/neomake)
 - [run](https://github.com/ledesmablt/vim-run)
+- [sBnR](https://github.com/Jorengarenar/vim-sBnR)
 - [sniprun](https://github.com/michaelb/sniprun)
 - [tasks](https://github.com/mg979/tasks.vim)
+- [yabs](https://github.com/pianocomposer321/yabs.nvim)
 
 ### Scrolling
 
@@ -627,6 +639,7 @@ Also check out:
 
 ### Snippets
 
+- [friendly-snippets](https://github.com/rafamadriz/friendly-snippets)
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - [miniSnip](https://github.com/Jorengarenar/miniSnip)
 - [snip](https://github.com/quintik/snip)
@@ -697,6 +710,7 @@ Also check out:
 - [gutentags_plus](https://github.com/skywind3000/gutentags_plus)
 - [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
 - [tagbar](https://github.com/preservim/tagbar)
+- [taglist](https://github.com/vim-scripts/taglist.vim)
 - [vista](https://github.com/liuchengxu/vista.vim)
 
 ### Tab-/Buffer-line
@@ -710,6 +724,7 @@ Also check out:
 - [buftabline.vim](https://github.com/ap/vim-buftabline)
 - [cokeline](https://github.com/noib3/cokeline.nvim)
 - [luatab](https://github.com/alvarosevilla95/luatab.nvim)
+- [suffer](https://github.com/r1ri/suffer)
 - [taberian](https://github.com/noscript/taberian.vim)
 - [tabline-nvim](https://github.com/kdheepak/tabline.nvim)
 - [tabulous](https://github.com/webdevel/tabulous)
@@ -718,6 +733,7 @@ Also check out:
 
 ### Telescope-Extensions
 
+- [dash](https://github.com/mrjones2014/dash.nvim)
 - [ros](https://github.com/thibthib18/ros-nvim)
 
 ### Terminal
