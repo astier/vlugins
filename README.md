@@ -825,6 +825,7 @@
 - [focus](https://github.com/beauwilliams/focus.nvim)
 - [lens](https://github.com/camspiers/lens.vim)
 - [maximizer](https://github.com/szw/vim-maximizer)
+- [stabilize](https://github.com/luukvbaal/stabilize.nvim)
 - [swap-buffers](https://github.com/caenrique/swap-buffers.nvim)
 - [visual-split](https://github.com/wellle/visual-split.vim)
 - [window](https://gitlab.com/yorickpeterse/nvim-window)
