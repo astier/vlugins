@@ -1,7 +1,9 @@
 [vlugins](https://github.com/astier/vlugins) is a categorized list of
 [neo](https://github.com/neovim/neovim)/[vim](https://github.com/vim/vim)-plugins.
-Also check out:
 
+### Other Sources
+
+- [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [neovimcraft](https://neovimcraft.com/)
 - [vimawesome](https://vimawesome.com/)
 
