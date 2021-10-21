@@ -242,6 +242,8 @@
 
 - [coiled-snake](https://github.com/kalekundert/vim-coiled-snake)
 - [FastFold](https://github.com/Konfekt/FastFold)
+- [foldpeek](https://github.com/kaile256/vim-foldpeek)
+- [FoldText](https://github.com/Konfekt/FoldText)
 - [fzf-folds](https://github.com/roosta/fzf-folds.vim)
 - [SimplyFold](https://github.com/tmhedberg/SimpylFold)
 
