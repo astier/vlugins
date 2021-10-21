@@ -537,6 +537,7 @@
 - [refactorvim](https://github.com/hupfdule/refactorvim)
 - [scriptease](https://github.com/tpope/vim-scriptease)
 - [sqlite](https://github.com/tami5/sqlite.lua)
+- [themis](https://github.com/thinca/vim-themis)
 - [vital](https://github.com/vim-jp/vital.vim)
 
 ### Plugin-Manager
