@@ -304,6 +304,7 @@
 - [gist](https://github.com/mattn/vim-gist)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
+- [git-time-lapse](https://github.com/junkblocker/git-time-lapse)
 - [git-worktree](https://github.com/ThePrimeagen/git-worktree.nvim)
 - [git](https://github.com/dinhhuy258/git.nvim)
 - [git_blame](https://github.com/bobrown101/git_blame.nvim)
