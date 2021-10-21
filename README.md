@@ -454,6 +454,7 @@
 
 ### Miscellaneous
 
+- [buffest](https://github.com/rbong/vim-buffest)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
