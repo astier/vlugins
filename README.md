@@ -129,6 +129,7 @@
 
 - [asyncomplete](https://github.com/prabirshrestha/asyncomplete.vim)
 - [AutoComplPop](https://github.com/vim-scripts/AutoComplPop)
+- [cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator)
 - [cmp](https://github.com/hrsh7th/nvim-cmp)
 - [coc](https://github.com/neoclide/coc.nvim)
 - [compe](https://github.com/hrsh7th/nvim-compe)
@@ -405,6 +406,7 @@
 
 ### LSP-Extensions
 
+- [dd](https://gitlab.com/yorickpeterse/nvim-dd)
 - [floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview)
 - [fzf-lsp](https://github.com/gfanto/fzf-lsp.nvim)
 - [goto-preview](https://github.com/rmagatti/goto-preview)
@@ -460,8 +462,11 @@
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
+- [hologram](https://github.com/edluffy/hologram.nvim)
 - [hydra](https://github.com/brenopacheco/vim-hydra)
 - [instant](https://github.com/jbyuki/instant.nvim)
+- [jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending)
+- [jupytext](https://github.com/goerz/jupytext.vim)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [marks](https://github.com/chentau/marks.nvim)
 - [nest](https://github.com/LionC/nest.nvim)
@@ -550,6 +555,7 @@
 - [paq](https://github.com/savq/paq-nvim)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 - [plug](https://github.com/junegunn/vim-plug)
+- [user](https://github.com/faerryn/user.nvim)
 - [volt](https://github.com/vim-volt/volt)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 
