@@ -652,6 +652,7 @@
 - [snip](https://github.com/quintik/snip)
 - [snipmate](https://github.com/garbas/vim-snipmate)
 - [snippets](https://github.com/norcalli/snippets.nvim)
+- [snippy](https://github.com/dcampos/nvim-snippy)
 - [ultisnips](https://github.com/SirVer/ultisnips)
 - [usnip](https://github.com/hauleth/usnip.vim)
 - [vsnip](https://github.com/hrsh7th/vim-vsnip)
