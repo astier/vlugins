@@ -142,6 +142,7 @@
 - [EasyCompleteYou](https://github.com/JimmyHuang454/EasyCompleteYou)
 - [lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
+- [sekme](https://github.com/Furkanzmc/sekme.nvim)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
 
@@ -484,6 +485,7 @@
 - [clever-f](https://github.com/rhysd/clever-f.vim)
 - [easymotion](https://github.com/easymotion/vim-easymotion)
 - [eft](https://github.com/hrsh7th/vim-eft)
+- [ftFt](https://github.com/gukz/ftFt.nvim)
 - [hop](https://github.com/phaazon/hop.nvim)
 - [indentwise](https://github.com/jeetsukumaran/vim-indentwise)
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
@@ -540,6 +542,7 @@
 
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [hp](https://github.com/dokwork/vim-hp)
+- [options](https://github.com/Furkanzmc/options.nvim)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [refactorvim](https://github.com/hupfdule/refactorvim)
 - [scriptease](https://github.com/tpope/vim-scriptease)
