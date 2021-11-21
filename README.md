@@ -799,6 +799,7 @@
 
 - [alpha](https://github.com/goolord/alpha-nvim)
 - [calendar](https://github.com/mattn/calendar-vim)
+- [calltree](https://github.com/ldelossa/calltree.nvim)
 - [context](https://github.com/wellle/context.vim)
 - [dashboard](https://github.com/glepnir/dashboard-nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
