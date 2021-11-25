@@ -810,6 +810,7 @@
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [quickui](https://github.com/skywind3000/vim-quickui)
 - [renamer](https://github.com/filipdutescu/renamer.nvim)
+- [searchbox](https://github.com/VonHeikemen/searchbox.nvim)
 - [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
 - [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
