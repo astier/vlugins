@@ -802,6 +802,7 @@
 - [calltree](https://github.com/ldelossa/calltree.nvim)
 - [context](https://github.com/wellle/context.vim)
 - [dashboard](https://github.com/glepnir/dashboard-nvim)
+- [dressing](https://github.com/stevearc/dressing.nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
 - [notify](https://github.com/rcarriga/nvim-notify)
