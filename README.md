@@ -351,6 +351,7 @@
 - [hltermpaste](https://github.com/ayosec/hltermpaste.vim)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
+- [matchparen](https://github.com/monkoose/matchparen.nvim)
 - [noclc](https://github.com/Pocco81/NoCLC.nvim)
 - [numb](https://github.com/nacro90/numb.nvim)
 - [overlength](https://github.com/tjdevries/overlength.vim)
@@ -493,11 +494,16 @@
 - [matchup](https://github.com/andymass/vim-matchup)
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
-- [sort-motion](https://github.com/christoomey/vim-sort-motion)
 - [tabout](https://github.com/abecodes/tabout.nvim)
 - [vimproviser](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
 - [zero](https://github.com/yuki-yano/zero.nvim)
+
+### Sorting
+
+- [AdvancedSorters](https://github.com/inkarkat/vim-AdvancedSorters)
+- [sort-motion](https://github.com/christoomey/vim-sort-motion)
+- [sort](https://github.com/sQVe/sort.nvim)
 
 ### Objects
 
@@ -774,6 +780,7 @@
 
 ### Tests
 
+- [pytrize](https://github.com/AckslD/nvim-pytrize.lua)
 - [test](https://github.com/vim-test/vim-test)
 - [ultest](https://github.com/rcarriga/vim-ultest)
 
