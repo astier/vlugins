@@ -26,6 +26,7 @@
 - [Fuzzy-Finder](#fuzzy-finder)
 - [Games](#games)
 - [Git](#git)
+- [Greeter](#greeter)
 - [Highlighting](#highlighting)
 - [Increment](#increment)
 - [Indentation](#indentation)
@@ -329,6 +330,13 @@
 - [twiggy](https://github.com/sodapopcan/vim-twiggy)
 - [vgit](https://github.com/tanvirtin/vgit.nvim)
 - [vimagit](https://github.com/jreybert/vimagit)
+
+# Greeter
+
+- [alpha](https://github.com/goolord/alpha-nvim)
+- [dashboard](https://github.com/glepnir/dashboard-nvim)
+- [startup](https://github.com/startup-nvim/startup.nvim)
+- [stratify](https://github.com/mhinz/vim-startify)
 
 ### Highlighting
 
@@ -727,6 +735,7 @@
 ### Statusline-Extensions
 
 - [gps](https://github.com/SmiteshP/nvim-gps)
+- [weather](https://github.com/wyattjsmith1/weather.nvim)
 
 ### Symbols/Tags
 
@@ -804,11 +813,9 @@
 
 ### UI
 
-- [alpha](https://github.com/goolord/alpha-nvim)
 - [calendar](https://github.com/mattn/calendar-vim)
 - [calltree](https://github.com/ldelossa/calltree.nvim)
 - [context](https://github.com/wellle/context.vim)
-- [dashboard](https://github.com/glepnir/dashboard-nvim)
 - [dressing](https://github.com/stevearc/dressing.nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
@@ -820,7 +827,6 @@
 - [renamer](https://github.com/filipdutescu/renamer.nvim)
 - [searchbox](https://github.com/VonHeikemen/searchbox.nvim)
 - [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
-- [stratify](https://github.com/mhinz/vim-startify)
 - [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [twilight](https://github.com/folke/twilight.nvim)
 - [wilder](https://github.com/gelguy/wilder.nvim)
