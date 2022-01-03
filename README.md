@@ -46,6 +46,7 @@
 - [Quickfix](#quickfix)
 - [Registers](#registers)
 - [REPL](#repl)
+- [Rooter](#rooter)
 - [Runner](#runner)
 - [Scrolling](#scrolling)
 - [Search & Replace](#search--replace)
@@ -219,6 +220,7 @@
 - [fm](https://github.com/is0n/fm-nvim)
 - [lir](https://github.com/tamago324/lir.nvim)
 - [molder](https://github.com/mattn/vim-molder)
+- [neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - [neofs](https://github.com/TimUntersberger/neofs)
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
@@ -235,12 +237,9 @@
 - [fetch](https://github.com/wsdjeg/vim-fetch)
 - [fwatch](https://github.com/rktjmp/fwatch.nvim)
 - [jumpwire](https://github.com/micmine/jumpwire.nvim)
-- [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
 - [move](https://github.com/kovetskiy/neovim-move)
 - [project](https://github.com/ahmedkhalf/project.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
-- [rooter](https://github.com/ygm2/rooter.nvim)
-- [vim-rooter](https://github.com/airblade/vim-rooter)
 
 ### Folding
 
@@ -498,6 +497,7 @@
 - [hop](https://github.com/phaazon/hop.nvim)
 - [indentwise](https://github.com/jeetsukumaran/vim-indentwise)
 - [ipmotion](https://github.com/justinmk/vim-ipmotion)
+- [jump-tag](https://github.com/harrisoncramer/jump-tag)
 - [lightspeed](https://github.com/ggandor/lightspeed.nvim)
 - [matchup](https://github.com/andymass/vim-matchup)
 - [quick-scope](https://github.com/unblevable/quick-scope)
@@ -528,9 +528,11 @@
 
 - [exchange](https://github.com/tommcdo/vim-exchange)
 - [express](https://github.com/tommcdo/vim-express)
+- [gomove](https://github.com/booperlv/nvim-gomove)
 - [repeat](https://github.com/tpope/vim-repeat)
 - [ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister)
 - [sandwich](https://github.com/machakann/vim-sandwich)
+- [schlepp](https://github.com/zirrostig/vim-schlepp)
 - [subversive](https://github.com/svermeulen/vim-subversive)
 - [surround.nvim](https://github.com/blackCauldron7/surround.nvim)
 - [surround](https://github.com/tpope/vim-surround)
@@ -556,6 +558,7 @@
 
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [hp](https://github.com/dokwork/vim-hp)
+- [litee](https://github.com/ldelossa/litee.nvim)
 - [options](https://github.com/Furkanzmc/options.nvim)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [refactorvim](https://github.com/hupfdule/refactorvim)
@@ -613,6 +616,13 @@
 - [visualrun](https://github.com/thezeroalpha/vim-visualrun)
 - [vsh](https://github.com/hardenedapple/vsh)
 
+### Rooter
+
+- [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
+- [NeoRoot](https://github.com/nyngwang/NeoRoot.lua)
+- [rooter](https://github.com/ygm2/rooter.nvim)
+- [vim-rooter](https://github.com/airblade/vim-rooter)
+
 ### Runner
 
 - [actions](https://github.com/amirrezaask/actions.nvim)
@@ -662,6 +672,7 @@
 ### Session-Management
 
 - [auto-session](https://github.com/rmagatti/auto-session)
+- [neovim-session-manager](https://github.com/Shatur/neovim-session-manager)
 - [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace)
 - [obsession](https://github.com/tpope/vim-obsession)
 - [prosession](https://github.com/dhruvasagar/vim-prosession)
