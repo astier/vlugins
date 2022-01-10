@@ -151,6 +151,7 @@
 ### Copy & Yank
 
 - [cutclass](https://github.com/svermeulen/vim-cutlass)
+- [miniyank](https://github.com/bfredl/nvim-miniyank)
 - [neoclip](https://github.com/AckslD/nvim-neoclip.lua)
 - [oscyank](https://github.com/ojroques/vim-oscyank)
 - [system-copy](https://github.com/christoomey/vim-system-copy)
@@ -248,6 +249,7 @@
 - [foldpeek](https://github.com/kaile256/vim-foldpeek)
 - [FoldText](https://github.com/Konfekt/FoldText)
 - [fzf-folds](https://github.com/roosta/fzf-folds.vim)
+- [pretty-fold](https://github.com/anuvyklack/pretty-fold.nvim)
 - [SimplyFold](https://github.com/tmhedberg/SimpylFold)
 
 ### Formatting
@@ -358,6 +360,7 @@
 - [hltermpaste](https://github.com/ayosec/hltermpaste.vim)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
+- [mark](https://github.com/inkarkat/vim-mark)
 - [matchparen](https://github.com/monkoose/matchparen.nvim)
 - [noclc](https://github.com/Pocco81/NoCLC.nvim)
 - [numb](https://github.com/nacro90/numb.nvim)
@@ -520,6 +523,7 @@
 - [pythonsense](https://github.com/jeetsukumaran/vim-pythonsense)
 - [targets](https://github.com/wellle/targets.vim)
 - [textobj-user](https://github.com/kana/vim-textobj-user)
+- [textobj-variable-segment](https://github.com/Julian/vim-textobj-variable-segment)
 - [textobj-word-column](https://github.com/coderifous/textobj-word-column.vim)
 - [textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects)
 - [treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
@@ -644,6 +648,7 @@
 
 - [comfortable-motion](https://github.com/yuttie/comfortable-motion.vim)
 - [neoscroll](https://github.com/karb94/neoscroll.nvim)
+- [nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar)
 - [scroll-barnacle](https://github.com/sslivkoff/vim-scroll-barnacle)
 - [scrollbar](https://github.com/Xuyuanp/scrollbar.nvim)
 - [scrollstatus](https://github.com/ojroques/vim-scrollstatus)
@@ -653,6 +658,7 @@
 ### Search & Replace
 
 - [ack](https://github.com/mileszs/ack.vim)
+- [asterisk](https://github.com/haya14busa/vim-asterisk)
 - [ctrlsf](https://github.com/dyng/ctrlsf.vim)
 - [easygrep](https://github.com/dkprice/vim-easygrep)
 - [eseach](https://github.com/eugen0329/vim-esearch/)
@@ -663,6 +669,7 @@
 - [nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace)
 - [searchhi](https://github.com/qxxxb/vim-searchhi)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
+- [searchx](https://github.com/hrsh7th/vim-searchx)
 - [slash](https://github.com/junegunn/vim-slash)
 - [spectre](https://github.com/windwp/nvim-spectre)
 - [starlite](https://github.com/ironhouzi/starlite-nvim)
