@@ -476,6 +476,7 @@
 
 - [buffest](https://github.com/rbong/vim-buffest)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
+- [competitest](https://github.com/xeluxee/competitest.nvim)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
