@@ -179,6 +179,7 @@
 ### Documentation
 
 - [doge](https://github.com/kkoomen/vim-doge)
+- [neogen](https://github.com/danymat/neogen)
 - [prodoc](https://github.com/glepnir/prodoc.nvim)
 - [tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs)
 
