@@ -253,6 +253,7 @@
 - [FoldText](https://github.com/Konfekt/FoldText)
 - [fzf-folds](https://github.com/roosta/fzf-folds.vim)
 - [pretty-fold](https://github.com/anuvyklack/pretty-fold.nvim)
+- [readablefold](https://github.com/lambdalisue/readablefold.vim)
 - [SimplyFold](https://github.com/tmhedberg/SimpylFold)
 
 ### Formatting
@@ -267,6 +268,7 @@
 - [neoformat](https://github.com/sbdchd/neoformat)
 - [prettier](https://github.com/prettier/vim-prettier)
 - [rt-format](https://github.com/skywind3000/vim-rt-format)
+- [tidy](https://github.com/mcauley-penney/tidy.nvim)
 
 ### Fuzzy-Finder
 
@@ -476,6 +478,7 @@
 ### Miscellaneous
 
 - [buffest](https://github.com/rbong/vim-buffest)
+- [capture](https://github.com/tyru/capture.vim)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
 - [competitest](https://github.com/xeluxee/competitest.nvim)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
@@ -690,9 +693,11 @@
 - [nvim-lastplace](https://github.com/ethanholz/nvim-lastplace)
 - [obsession](https://github.com/tpope/vim-obsession)
 - [prosession](https://github.com/dhruvasagar/vim-prosession)
+- [sessions](https://github.com/natecraddock/sessions.nvim)
 - [stay](https://github.com/zhimsel/vim-stay)
 - [vim-lastplace](https://github.com/farmergreg/vim-lastplace)
 - [workspace](https://github.com/thaerkh/vim-workspace)
+- [workspaces](https://github.com/natecraddock/workspaces.nvim)
 
 ### Snippets
 
@@ -877,6 +882,7 @@
 - [vimwiki](https://github.com/vimwiki/vimwiki)
 - [wiki](https://github.com/lervag/wiki.vim)
 - [YANP](https://github.com/boson-joe/YANP)
+- [zk](https://github.com/mickael-menu/zk-nvim)
 
 ### Windows
 
