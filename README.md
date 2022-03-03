@@ -126,6 +126,7 @@
 - [nerdcommenter](https://github.com/preservim/nerdcommenter)
 - [tcomment](https://github.com/tomtom/tcomment_vim)
 - [todo-comments](https://github.com/folke/todo-comments.nvim)
+- [todo](https://github.com/AmeerTaweel/todo.nvim)
 - [ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)
 
 ### Completion
@@ -174,6 +175,7 @@
 - [ataraxis](https://github.com/henriquehbr/ataraxis.lua)
 - [goyo](https://github.com/junegunn/goyo.vim)
 - [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
+- [yode](https://github.com/hoschi/yode-nvim)
 - [zen-mode](https://github.com/folke/zen-mode.nvim)
 
 ### Documentation
@@ -227,6 +229,7 @@
 - [neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - [neofs](https://github.com/TimUntersberger/neofs)
 - [nerdtree](https://github.com/preservim/nerdtree)
+- [opener](https://github.com/willthbill/opener.nvim)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
 - [tree](https://github.com/kyazdani42/nvim-tree.lua)
 - [vinegar](https://github.com/tpope/vim-vinegar)
@@ -244,6 +247,7 @@
 - [move](https://github.com/kovetskiy/neovim-move)
 - [project](https://github.com/ahmedkhalf/project.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
+- [quick-switcher](https://github.com/Everduin94/nvim-quick-switcher)
 
 ### Folding
 
@@ -265,6 +269,7 @@
 - [formatter](https://github.com/mhartington/formatter.nvim)
 - [importmagic](https://github.com/anihm136/importmagic.nvim)
 - [lessspace](https://github.com/thirtythreeforty/lessspace.vim)
+- [lsp-format](https://github.com/lukas-reineke/lsp-format.nvim)
 - [neoformat](https://github.com/sbdchd/neoformat)
 - [prettier](https://github.com/prettier/vim-prettier)
 - [rt-format](https://github.com/skywind3000/vim-rt-format)
@@ -311,6 +316,7 @@
 - [fugitive-extended](https://github.com/tommcdo/vim-fugitive-blame-ext)
 - [fugitive](https://github.com/tpope/vim-fugitive)
 - [fzf-checkout](https://github.com/stsewd/fzf-checkout.vim)
+- [gfold](https://github.com/AckslD/nvim-gfold.lua)
 - [gina](https://github.com/lambdalisue/gina.vim)
 - [gist](https://github.com/mattn/vim-gist)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
@@ -348,6 +354,7 @@
 
 - [auto-cursorline](https://github.com/delphinus/vim-auto-cursorline)
 - [better-whitespace](https://github.com/ntpeters/vim-better-whitespace)
+- [bling](https://github.com/ivyl/vim-bling)
 - [codepainter](https://github.com/lpinilla/vim-codepainter)
 - [colorizer](https://github.com/norcalli/nvim-colorizer.lua)
 - [cool](https://github.com/romainl/vim-cool)
@@ -361,6 +368,7 @@
 - [headlines](https://github.com/lukas-reineke/headlines.nvim)
 - [highlightedyank](https://github.com/machakann/vim-highlightedyank)
 - [HighStr](https://github.com/Pocco81/HighStr.nvim)
+- [hlargs](https://github.com/m-demare/hlargs.nvim)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
 - [hltermpaste](https://github.com/ayosec/hltermpaste.vim)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
@@ -462,6 +470,7 @@
 - [better-escape.nvim](https://github.com/max397574/better-escape.nvim)
 - [better-escape.vim](https://github.com/jdhao/better-escape.vim)
 - [cartographer](https://github.com/Iron-E/nvim-cartographer)
+- [legendary](https://github.com/mrjones2014/legendary.nvim)
 - [mapx](https://github.com/b0o/mapx.nvim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
@@ -491,6 +500,7 @@
 - [jupytext](https://github.com/goerz/jupytext.vim)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
 - [marks](https://github.com/chentau/marks.nvim)
+- [mini](https://github.com/echasnovski/mini.nvim)
 - [nest](https://github.com/LionC/nest.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
 - [package-info](https://github.com/vuki656/package-info.nvim)
@@ -564,7 +574,9 @@
 - [lh-brackets](https://github.com/LucHermitte/lh-brackets)
 - [pear-tree](https://github.com/tmsvg/pear-tree)
 - [pears](https://github.com/steelsojka/pears.nvim)
+- [smart-pairs](https://github.com/ZhiyuanLck/smart-pairs)
 - [smartinput](https://github.com/kana/vim-smartinput)
+- [treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)
 - [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 
 ## Plugin-Development
@@ -633,6 +645,7 @@
 
 - [lsp-rooter](https://github.com/ahmedkhalf/lsp-rooter.nvim)
 - [NeoRoot](https://github.com/nyngwang/NeoRoot.lua)
+- [nvim-rooter](https://github.com/jedi2610/nvim-rooter.lua)
 - [rooter](https://github.com/ygm2/rooter.nvim)
 - [vim-rooter](https://github.com/airblade/vim-rooter)
 
@@ -652,6 +665,7 @@
 - [sBnR](https://github.com/Jorengarenar/vim-sBnR)
 - [sniprun](https://github.com/michaelb/sniprun)
 - [tasks](https://github.com/mg979/tasks.vim)
+- [vs-tasks](https://github.com/EthanJWright/vs-tasks.nvim)
 - [yabs](https://github.com/pianocomposer321/yabs.nvim)
 
 ### Scrolling
@@ -728,6 +742,8 @@
 - [spellsitter](https://github.com/lewis6991/spellsitter.nvim)
 - [spelunker](https://github.com/kamykn/spelunker.vim)
 - [synonyms](https://github.com/Sanhajio/synonyms.vim)
+- [translate-shell](https://github.com/echuraev/translate-shell.vim)
+- [translate](https://github.com/uga-rosa/translate.nvim)
 - [translator](https://github.com/voldikss/vim-translator)
 - [wordy](https://github.com/reedes/vim-wordy)
 
@@ -879,9 +895,11 @@
 - [orgmode](https://github.com/jceb/vim-orgmode)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [samwise](https://github.com/rexagod/samwise.nvim)
+- [todotxt](https://github.com/arnarg/todotxt.nvim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
 - [wiki](https://github.com/lervag/wiki.vim)
 - [YANP](https://github.com/boson-joe/YANP)
+- [zettelkasten](https://github.com/Furkanzmc/zettelkasten.nvim)
 - [zk](https://github.com/mickael-menu/zk-nvim)
 
 ### Windows
