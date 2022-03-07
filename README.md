@@ -15,6 +15,7 @@
 - [Comments](#comments)
 - [Completion](#completion)
 - [Copy & Yank](#copy--yank)
+- [Database](#database)
 - [Debugger](#debugger)
 - [Distraction-Free-Writing](#distraction-free-writing)
 - [Documentation](#documentation)
@@ -161,6 +162,13 @@
 - [yankstack](https://github.com/maxbrunsfeld/vim-yankstack)
 - [yoink](https://github.com/svermeulen/vim-yoink)
 
+### Database
+
+- [mongo](https://github.com/thibthib18/mongo-nvim)
+- [SQL-UPPER](https://github.com/Jorengarenar/vim-SQL-UPPER)
+- [sqlite](https://github.com/tami5/sqlite.lua)
+- [uppercase-sql](https://github.com/jsborjesson/vim-uppercase-sql)
+
 ### Debugger
 
 - [DAPInstall](https://github.com/Pocco81/DAPInstall.nvim)
@@ -207,10 +215,8 @@
 - [sideways](https://github.com/AndrewRadev/sideways.vim)
 - [split-line](https://github.com/drzel/vim-split-line)
 - [splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
-- [SQL-UPPER](https://github.com/Jorengarenar/vim-SQL-UPPER)
 - [stabs](https://github.com/Thyrum/vim-stabs)
 - [table-mode](https://github.com/dhruvasagar/vim-table-mode)
-- [uppercase-sql](https://github.com/jsborjesson/vim-uppercase-sql)
 - [visual-multi](https://github.com/mg979/vim-visual-multi)
 
 ### File-Explorer
@@ -400,6 +406,7 @@
 
 - [crazy8](https://github.com/zsugabubus/crazy8.nvim)
 - [detectindent](https://github.com/ciaranm/detectindent)
+- [guess-indent](https://github.com/NMAC427/guess-indent.nvim)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [indent-o-matic](https://github.com/Darazaki/indent-o-matic)
 - [indentLine](https://github.com/Yggdroot/indentLine)
@@ -505,6 +512,7 @@
 - [notmuch](https://github.com/felipec/notmuch-vim)
 - [package-info](https://github.com/vuki656/package-info.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
+- [regexplainer](https://github.com/bennypowers/nvim-regexplainer)
 - [try](https://github.com/mjlbach/try.nvim)
 - [unimpaired](https://github.com/tpope/vim-unimpaired)
 
@@ -588,7 +596,6 @@
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [refactorvim](https://github.com/hupfdule/refactorvim)
 - [scriptease](https://github.com/tpope/vim-scriptease)
-- [sqlite](https://github.com/tami5/sqlite.lua)
 - [themis](https://github.com/thinca/vim-themis)
 - [vital](https://github.com/vim-jp/vital.vim)
 
