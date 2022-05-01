@@ -262,6 +262,7 @@
 
 ### Folding
 
+- [anyfold](https://github.com/pseewald/vim-anyfold)
 - [coiled-snake](https://github.com/kalekundert/vim-coiled-snake)
 - [FastFold](https://github.com/Konfekt/FastFold)
 - [foldpeek](https://github.com/kaile256/vim-foldpeek)
