@@ -37,6 +37,7 @@
 - [LSP-Like](#lsp-like)
 - [Mappings](#mappings)
 - [Markdown](#markdown)
+- [Marks](#marks)
 - [Miscellaneous](#miscellaneous)
 - [Motions](#motions)
 - [Objects](#objects)
@@ -45,6 +46,7 @@
 - [Plugin-Development](#plugin-development)
 - [Plugin-Manager](#plugin-manager)
 - [Quickfix](#quickfix)
+- [Readline](#readline)
 - [Registers](#registers)
 - [REPL](#repl)
 - [Rooter](#rooter)
@@ -85,6 +87,7 @@
 
 ### Buffers
 
+- [attempt](https://github.com/m-demare/attempt.nvim)
 - [auto-save](https://github.com/907th/vim-auto-save)
 - [AutoSave](https://github.com/Pocco81/AutoSave.nvim)
 - [bbye](https://github.com/moll/vim-bbye)
@@ -101,6 +104,7 @@
 - [bunlink](https://github.com/orlp/vim-bunlink/)
 - [close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim)
 - [close-buffers.vim](https://github.com/Asheq/close-buffers.vim)
+- [cybu](https://github.com/ghillb/cybu.nvim)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [jabs](https://github.com/matbme/JABS.nvim)
 - [mru](https://github.com/yegappan/mru)
@@ -259,6 +263,7 @@
 - [project](https://github.com/ahmedkhalf/project.nvim)
 - [projectionist](https://github.com/tpope/vim-projectionist)
 - [quick-switcher](https://github.com/Everduin94/nvim-quick-switcher)
+- [suda](https://github.com/lambdalisue/suda.vim)
 
 ### Folding
 
@@ -329,6 +334,7 @@
 - [fugitive](https://github.com/tpope/vim-fugitive)
 - [fzf-checkout](https://github.com/stsewd/fzf-checkout.vim)
 - [gfold](https://github.com/AckslD/nvim-gfold.lua)
+- [gh](https://github.com/ldelossa/gh.nvim)
 - [gina](https://github.com/lambdalisue/gina.vim)
 - [gist](https://github.com/mattn/vim-gist)
 - [git-blame](https://github.com/f-person/git-blame.nvim)
@@ -380,6 +386,7 @@
 - [footprints](https://github.com/axlebedev/footprints)
 - [headlines](https://github.com/lukas-reineke/headlines.nvim)
 - [highlightedyank](https://github.com/machakann/vim-highlightedyank)
+- [highlighter](https://github.com/azabiong/vim-highlighter)
 - [HighStr](https://github.com/Pocco81/HighStr.nvim)
 - [hlargs](https://github.com/m-demare/hlargs.nvim)
 - [hlslens](https://github.com/kevinhwang91/nvim-hlslens)
@@ -486,6 +493,7 @@
 - [better-escape.nvim](https://github.com/max397574/better-escape.nvim)
 - [better-escape.vim](https://github.com/jdhao/better-escape.vim)
 - [cartographer](https://github.com/Iron-E/nvim-cartographer)
+- [key-menu](https://github.com/linty-org/key-menu.nvim)
 - [legendary](https://github.com/mrjones2014/legendary.nvim)
 - [mapx](https://github.com/b0o/mapx.nvim)
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key)
@@ -499,6 +507,10 @@
 - [instant-markdown](https://github.com/instant-markdown/vim-instant-markdown)
 - [markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 - [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+
+### Marks
+
+- [locationist](https://github.com/LhKipp/nvim-locationist)
 
 ### Miscellaneous
 
@@ -542,6 +554,7 @@
 - [pounce](https://github.com/rlane/pounce.nvim)
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sneak](https://github.com/justinmk/vim-sneak)
+- [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
 - [tabout](https://github.com/abecodes/tabout.nvim)
 - [vimproviser](https://github.com/egzvor/vimproviser)
 - [wordmotion](https://github.com/chaoren/vim-wordmotion)
@@ -605,6 +618,7 @@
 - [options](https://github.com/Furkanzmc/options.nvim)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [refactorvim](https://github.com/hupfdule/refactorvim)
+- [runes](https://github.com/hkupty/runes.nvim)
 - [scriptease](https://github.com/tpope/vim-scriptease)
 - [themis](https://github.com/thinca/vim-themis)
 - [vital](https://github.com/vim-jp/vital.vim)
@@ -637,6 +651,12 @@
 - [replacer](https://github.com/gabrielpoca/replacer.nvim)
 - [toolwindow](https://github.com/EthanJWright/toolwindow.nvim)
 - [trouble](https://github.com/folke/trouble.nvim)
+
+### Readline
+
+- [readline.nvim](https://github.com/linty-org/readline.nvim)
+- [readline.vim](https://github.com/ryvnf/readline.vim)
+- [rsi](https://github.com/tpope/vim-rsi)
 
 ### Registers
 
@@ -678,10 +698,12 @@
 - [jobsplit](https://gitlab.com/Groctel/jobsplit.nvim)
 - [mdeval](https://github.com/jubnzv/mdeval.nvim)
 - [neomake](https://github.com/neomake/neomake)
+- [projectlaunch](https://github.com/sheodox/projectlaunch.nvim)
 - [run](https://github.com/ledesmablt/vim-run)
 - [sBnR](https://github.com/Jorengarenar/vim-sBnR)
 - [sniprun](https://github.com/michaelb/sniprun)
 - [tasks](https://github.com/mg979/tasks.vim)
+- [toggletasks](https://github.com/jedrzejboczar/toggletasks.nvim)
 - [vs-tasks](https://github.com/EthanJWright/vs-tasks.nvim)
 - [yabs](https://github.com/pianocomposer321/yabs.nvim)
 
@@ -738,6 +760,7 @@
 - [miniSnip](https://github.com/Jorengarenar/miniSnip)
 - [snip](https://github.com/quintik/snip)
 - [snipmate](https://github.com/garbas/vim-snipmate)
+- [snippet-converter](https://github.com/smjonas/snippet-converter.nvim)
 - [snippets](https://github.com/norcalli/snippets.nvim)
 - [snippy](https://github.com/dcampos/nvim-snippy)
 - [ultisnips](https://github.com/SirVer/ultisnips)
@@ -784,7 +807,7 @@
 - [crystalline](https://github.com/rbong/vim-crystalline)
 - [eleline](https://github.com/liuchengxu/eleline.vim)
 - [express\_line](https://github.com/tjdevries/express_line.nvim)
-- [feline](https://github.com/famiu/feline.nvim)
+- [feline](https://github.com/feline-nvim/feline.nvim)
 - [glepnir/galaxyline](https://github.com/glepnir/galaxyline.nvim)
 - [hardline](https://github.com/ojroques/nvim-hardline)
 - [heirline](https://github.com/rebelot/heirline.nvim)
@@ -853,6 +876,7 @@
 - [termwrapper](https://github.com/oberblastmeister/termwrapper.nvim)
 - [toggle-terminal](https://github.com/caenrique/nvim-toggle-terminal)
 - [toggleterm](https://github.com/akinsho/nvim-toggleterm.lua)
+- [unception](https://github.com/samjwill/nvim-unception)
 
 ### Tests
 
@@ -913,6 +937,7 @@
 - [neuron.vim](https://github.com/fiatjaf/neuron.vim)
 - [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim)
 - [orgmode](https://github.com/jceb/vim-orgmode)
+- [orgwiki](https://github.com/ranjithshegde/orgWiki.nvim)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [samwise](https://github.com/rexagod/samwise.nvim)
 - [todotxt](https://github.com/arnarg/todotxt.nvim)
