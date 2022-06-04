@@ -406,6 +406,7 @@
 - [traces](https://github.com/markonm/traces.vim)
 - [trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace)
 - [vimade](https://github.com/TaDaa/vimade)
+- [yanky](https://github.com/gbprod/yanky.nvim)
 
 ### Increment
 
