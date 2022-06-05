@@ -243,9 +243,9 @@
 - [neofs](https://github.com/TimUntersberger/neofs)
 - [nerdtree](https://github.com/preservim/nerdtree)
 - [netman](https://github.com/miversen33/netman.nvim)
+- [nvim-tree](https://github.com/kyazdani42/nvim-tree.lua)
 - [opener](https://github.com/willthbill/opener.nvim)
 - [rnvimr](https://github.com/kevinhwang91/rnvimr)
-- [tree](https://github.com/kyazdani42/nvim-tree.lua)
 - [vinegar](https://github.com/tpope/vim-vinegar)
 - [yanil](https://github.com/Xuyuanp/yanil)
 
