@@ -12,8 +12,10 @@
 - [Alignment](#alignment)
 - [Browser & URLS](#browser--urls)
 - [Buffers](#buffers)
+- [Case](#case)
 - [Comments](#comments)
 - [Completion](#completion)
+- [Context](#context)
 - [Copy & Yank](#copy--yank)
 - [Database](#database)
 - [Debugger](#debugger)
@@ -72,6 +74,7 @@
 
 ### Alignment
 
+- [align](https://github.com/Vonr/align.nvim)
 - [easy-align](https://github.com/junegunn/vim-easy-align)
 - [lion](https://github.com/tommcdo/vim-lion)
 - [tabular](https://github.com/godlygeek/tabular)
@@ -91,7 +94,6 @@
 - [auto-save](https://github.com/907th/vim-auto-save)
 - [AutoSave](https://github.com/Pocco81/AutoSave.nvim)
 - [bbye](https://github.com/moll/vim-bbye)
-- [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [bswap](https://github.com/natdm/bswap)
 - [bufdelete](https://github.com/famiu/bufdelete.nvim)
 - [bufexplorer](https://github.com/jlanzarotta/bufexplorer)
@@ -114,6 +116,12 @@
 - [stickybuf](https://github.com/stevearc/stickybuf.nvim)
 - [wheel](https://github.com/chimay/wheel)
 - [workspace](https://github.com/dosimple/workspace.vim)
+
+### Case
+
+- [caser](https://github.com/arthurxavierx/vim-caser)
+- [text-case](https://github.com/johmsalas/text-case.nvim)
+- [uppercase-sql](https://github.com/jsborjesson/vim-uppercase-sql)
 
 ### Comments
 
@@ -156,6 +164,13 @@
 - [sekme](https://github.com/Furkanzmc/sekme.nvim)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 - [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)
+
+### Context
+
+- [context](https://github.com/wellle/context.vim)
+- [gps](https://github.com/SmiteshP/nvim-gps)
+- [navic](https://github.com/SmiteshP/nvim-navic)
+- [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
 
 ### Copy & Yank
 
@@ -363,7 +378,7 @@
 - [vgit](https://github.com/tanvirtin/vgit.nvim)
 - [vimagit](https://github.com/jreybert/vimagit)
 
-# Greeter
+### Greeter
 
 - [alpha](https://github.com/goolord/alpha-nvim)
 - [dashboard](https://github.com/glepnir/dashboard-nvim)
@@ -512,7 +527,9 @@
 
 ### Marks
 
+- [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [locationist](https://github.com/LhKipp/nvim-locationist)
+- [marks](https://github.com/chentau/marks.nvim)
 
 ### Miscellaneous
 
@@ -530,7 +547,6 @@
 - [jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending)
 - [jupytext](https://github.com/goerz/jupytext.vim)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
-- [marks](https://github.com/chentau/marks.nvim)
 - [mini](https://github.com/echasnovski/mini.nvim)
 - [nest](https://github.com/LionC/nest.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
@@ -612,10 +628,11 @@
 - [treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)
 - [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 
-## Plugin-Development
+### Plugin-Development
 
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [hp](https://github.com/dokwork/vim-hp)
+- [import](https://github.com/miversen33/import.nvim)
 - [litee](https://github.com/ldelossa/litee.nvim)
 - [options](https://github.com/Furkanzmc/options.nvim)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
@@ -828,6 +845,7 @@
 ### Statusline-Extensions
 
 - [gps](https://github.com/SmiteshP/nvim-gps)
+- [navic](https://github.com/SmiteshP/nvim-navic)
 - [weather](https://github.com/wyattjsmith1/weather.nvim)
 
 ### Symbols/Tags
@@ -860,7 +878,9 @@
 
 ### Telescope-Extensions
 
+- [cder](https://github.com/Zane-/cder.nvim)
 - [dash](https://github.com/mrjones2014/dash.nvim)
+- [howdoi](https://github.com/Zane-/howdoi.nvim)
 - [ros](https://github.com/thibthib18/ros-nvim)
 
 ### Terminal
@@ -883,9 +903,10 @@
 
 ### Tests
 
+- [coverage](https://github.com/andythigpen/nvim-coverage)
+- [neotest](https://github.com/nvim-neotest/neotest)
 - [pytrize](https://github.com/AckslD/nvim-pytrize.lua)
 - [test](https://github.com/vim-test/vim-test)
-- [ultest](https://github.com/rcarriga/vim-ultest)
 
 ### Tmux
 
@@ -910,7 +931,6 @@
 - [calendar](https://github.com/mattn/calendar-vim)
 - [calltree](https://github.com/ldelossa/calltree.nvim)
 - [conmenu](https://github.com/meznaric/conmenu)
-- [context](https://github.com/wellle/context.vim)
 - [dressing](https://github.com/stevearc/dressing.nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
@@ -924,7 +944,6 @@
 - [searchbox](https://github.com/VonHeikemen/searchbox.nvim)
 - [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
 - [stylish](https://github.com/sunjon/stylish.nvim)
-- [treesitter-context](https://github.com/romgrk/nvim-treesitter-context)
 - [twilight](https://github.com/folke/twilight.nvim)
 - [wilder](https://github.com/gelguy/wilder.nvim)
 
