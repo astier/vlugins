@@ -336,6 +336,7 @@
 ### Git
 
 - [blame-line](https://github.com/tveskag/nvim-blame-line)
+- [blame_line](https://github.com/braxtons12/blame_line.nvim)
 - [blamer](https://github.com/APZelos/blamer.nvim)
 - [coc-git](https://github.com/neoclide/coc-git)
 - [committia](https://github.com/rhysd/committia.vim)
