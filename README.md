@@ -942,6 +942,7 @@
 - [quickmenu](https://github.com/skywind3000/quickmenu.vim)
 - [quickui](https://github.com/skywind3000/vim-quickui)
 - [renamer](https://github.com/filipdutescu/renamer.nvim)
+- [satellite](https://github.com/lewis6991/satellite.nvim)
 - [searchbox](https://github.com/VonHeikemen/searchbox.nvim)
 - [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
 - [stylish](https://github.com/sunjon/stylish.nvim)
