@@ -10,6 +10,7 @@
 ### Table of Contents
 
 - [Alignment](#alignment)
+- [Auto-Save](#auto-save)
 - [Browser & URLS](#browser--urls)
 - [Buffers](#buffers)
 - [Case](#case)
@@ -21,6 +22,7 @@
 - [Cursor](#cursor)
 - [Database](#database)
 - [Debugger](#debugger)
+- [Diagnostics](#diagnostics)
 - [Distraction-Free-Writing](#distraction-free-writing)
 - [Documentation](#documentation)
 - [Editing](#editing)
@@ -83,6 +85,11 @@
 - [lion](https://github.com/tommcdo/vim-lion)
 - [tabular](https://github.com/godlygeek/tabular)
 
+### Auto-Save
+
+- [auto-save](https://github.com/Pocco81/auto-save.nvim)
+- [vim-auto-save](https://github.com/907th/vim-auto-save)
+
 ### Browser & URLS
 
 - [browse](https://github.com/lalitmee/browse.nvim)
@@ -96,8 +103,6 @@
 ### Buffers
 
 - [attempt](https://github.com/m-demare/attempt.nvim)
-- [auto-save](https://github.com/907th/vim-auto-save)
-- [AutoSave](https://github.com/Pocco81/AutoSave.nvim)
 - [bbye](https://github.com/moll/vim-bbye)
 - [bswap](https://github.com/natdm/bswap)
 - [bufdelete](https://github.com/famiu/bufdelete.nvim)
@@ -222,11 +227,15 @@
 - [vim-dap](https://github.com/dradtke/vim-dap)
 - [vimspector](https://github.com/puremourning/vimspector)
 
+### Diagnostics
+
+- [neo-tree-diagnostics](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim)
+
 ### Distraction-Free-Writing
 
 - [ataraxis](https://github.com/henriquehbr/ataraxis.lua)
 - [goyo](https://github.com/junegunn/goyo.vim)
-- [TrueZen](https://github.com/kdav5758/TrueZen.nvim)
+- [true-zen](https://github.com/kdav5758/TrueZen.nvim)
 - [yode](https://github.com/hoschi/yode-nvim)
 - [zen-mode](https://github.com/folke/zen-mode.nvim)
 
@@ -320,6 +329,7 @@
 
 - [ale](https://github.com/dense-analysis/ale)
 - [autoformat](https://github.com/chiel92/vim-autoformat)
+- [cbfmt](https://github.com/lukas-reineke/cbfmt)
 - [filetype-formatter](https://github.com/pappasam/vim-filetype-formatter)
 - [fmt](https://github.com/aonemd/fmt.vim)
 - [formatter](https://github.com/mhartington/formatter.nvim)
@@ -561,6 +571,7 @@
 - [competitest](https://github.com/xeluxee/competitest.nvim)
 - [docker](https://github.com/dgrbrady/nvim-docker)
 - [editorconfig](https://github.com/editorconfig/editorconfig-vim)
+- [eswpoch](https://github.com/hlucco/nvim-eswpoch)
 - [gdoc](https://github.com/aadv1k/gdoc.vim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
@@ -571,6 +582,7 @@
 - [jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending)
 - [jupytext](https://github.com/goerz/jupytext.vim)
 - [libmodal](https://github.com/Iron-E/nvim-libmodal)
+- [live-server](https://github.com/manzeloth/live-server)
 - [mini](https://github.com/echasnovski/mini.nvim)
 - [nest](https://github.com/LionC/nest.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
@@ -743,6 +755,7 @@
 - [firvish](https://github.com/Furkanzmc/firvish.nvim)
 - [GustavoKatel/tasks](https://github.com/GustavoKatel/tasks.nvim)
 - [jobsplit](https://gitlab.com/Groctel/jobsplit.nvim)
+- [lab](https://github.com/0x100101/lab.nvim)
 - [mdeval](https://github.com/jubnzv/mdeval.nvim)
 - [mg979/tasks](https://github.com/mg979/tasks.vim)
 - [neomake](https://github.com/neomake/neomake)
