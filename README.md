@@ -48,6 +48,7 @@
 - [Mappings](#mappings)
 - [Markdown](#markdown)
 - [Marks](#marks)
+- [Minimap](#minimap)
 - [Miscellaneous](#miscellaneous)
 - [Motions](#motions)
 - [Notifications](#notifications)
@@ -620,6 +621,11 @@
 - [bookmarks](https://github.com/MattesGroeger/vim-bookmarks)
 - [locationist](https://github.com/LhKipp/nvim-locationist)
 - [marks](https://github.com/chentau/marks.nvim)
+
+### Minimap
+
+- [codewindow](https://github.com/gorbit99/codewindow.nvim)
+- [minimap](https://github.com/wfxr/minimap.vim)
 
 ### Miscellaneous
 
