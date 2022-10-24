@@ -769,6 +769,7 @@
 - [paq](https://github.com/savq/paq-nvim)
 - [pathogen](https://github.com/tpope/vim-pathogen)
 - [plug](https://github.com/junegunn/vim-plug)
+- [slowly](https://github.com/nat-418/slowly.nvim)
 - [user](https://github.com/faerryn/user.nvim)
 - [volt](https://github.com/vim-volt/volt)
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
@@ -852,6 +853,7 @@
 - [toggletasks](https://github.com/jedrzejboczar/toggletasks.nvim)
 - [vs-tasks](https://github.com/EthanJWright/vs-tasks.nvim)
 - [yabs](https://github.com/pianocomposer321/yabs.nvim)
+- [zond](https://github.com/mrded/nvim-zond)
 
 ### Scrolling
 
@@ -1014,6 +1016,7 @@
 - [ros](https://github.com/thibthib18/ros-nvim)
 - [telescope-makefile](https://github.com/sopa0/telescope-makefile)
 - [telescope-recent-files](https://github.com/smartpde/telescope-recent-files)
+- [telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
 
 ### Terminal
@@ -1030,6 +1033,7 @@
 - [sterm](https://github.com/Hvassaa/sterm.nvim)
 - [stt](https://github.com/toniz4/vim-stt)
 - [termbufm](https://github.com/mizlan/termbufm)
+- [termitary](https://github.com/nat-418/termitary.nvim)
 - [termwrapper](https://github.com/oberblastmeister/termwrapper.nvim)
 - [toggle-terminal](https://github.com/caenrique/nvim-toggle-terminal)
 - [toggleterm](https://github.com/akinsho/nvim-toggleterm.lua)
@@ -1117,6 +1121,7 @@
 - [orgwiki](https://github.com/ranjithshegde/orgWiki.nvim)
 - [riv](https://github.com/gu-fan/riv.vim)
 - [samwise](https://github.com/rexagod/samwise.nvim)
+- [scribe](https://github.com/Ostralyan/scribe.nvim)
 - [todotxt](https://github.com/arnarg/todotxt.nvim)
 - [vimwiki](https://github.com/vimwiki/vimwiki)
 - [wiki](https://github.com/lervag/wiki.vim)
