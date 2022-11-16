@@ -38,6 +38,7 @@
 - [Greeter](#greeter)
 - [Highlighting](#highlighting)
 - [Highlighting (Word Under Cursor)](#highlighting-word-under-cursor)
+- [Icons](#icons)
 - [Increment/Toggle](#incrementtoggle)
 - [Indentation](#indentation)
 - [JSON](#json)
@@ -498,6 +499,13 @@
 - [vim-cursorword](https://github.com/itchyny/vim-cursorword)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [nvim-cursorword](https://github.com/yamatsum/nvim-cursorline)
+
+### Icons
+
+- [nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon)
+- [nvim-nonicons](https://github.com/yamatsum/nvim-nonicons)
+- [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
+- [vim-devicons](https://github.com/ryanoasis/vim-devicons)
 
 ### Increment/Toggle
 
