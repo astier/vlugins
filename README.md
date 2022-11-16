@@ -694,6 +694,7 @@
 
 - [CamelCaseMotion](https://github.com/bkad/CamelCaseMotion)
 - [clever-f](https://github.com/rhysd/clever-f.vim)
+- [easy-action](https://github.com/Weissle/easy-action)
 - [easymotion](https://github.com/easymotion/vim-easymotion)
 - [eft](https://github.com/hrsh7th/vim-eft)
 - [eyeliner](https://github.com/jinh0/eyeliner.nvim)
