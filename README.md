@@ -97,6 +97,12 @@
 - [lion](https://github.com/tommcdo/vim-lion)
 - [tabular](https://github.com/godlygeek/tabular)
 
+## ASCII
+
+- [ascii-blocks](https://github.com/superhawk610/ascii-blocks.nvim)
+- [ascii](https://github.com/MaximilianLloyd/ascii.nvim)
+- [normalascii](https://github.com/haolian9/normalascii.nvim)
+
 ### Auto-Save
 
 - [auto-save](https://github.com/Pocco81/auto-save.nvim)
@@ -650,8 +656,6 @@
 
 ### Miscellaneous
 
-- [ascii-blocks](https://github.com/superhawk610/ascii-blocks.nvim)
-- [ascii](https://github.com/MaximilianLloyd/ascii.nvim)
 - [buffest](https://github.com/rbong/vim-buffest)
 - [capture](https://github.com/tyru/capture.vim)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
