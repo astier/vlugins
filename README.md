@@ -1090,6 +1090,7 @@
 - [animation](https://github.com/anuvyklack/animation.nvim)
 - [calendar](https://github.com/mattn/calendar-vim)
 - [calltree](https://github.com/ldelossa/calltree.nvim)
+- [colorful-winsep](https://github.com/nvim-zh/colorful-winsep.nvim)
 - [conmenu](https://github.com/meznaric/conmenu)
 - [dressing](https://github.com/stevearc/dressing.nvim)
 - [float-preview](https://github.com/ncm2/float-preview.nvim)
