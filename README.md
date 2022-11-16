@@ -333,6 +333,7 @@
 - [move](https://github.com/kovetskiy/neovim-move)
 - [other](https://github.com/rgroli/other.nvim)
 - [ouroboros](https://github.com/jakemason/ouroboros)
+- [portal](https://github.com/cbochs/portal.nvim)
 - [quick-switcher](https://github.com/Everduin94/nvim-quick-switcher)
 - [suda](https://github.com/lambdalisue/suda.vim)
 
