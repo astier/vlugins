@@ -64,6 +64,7 @@
 - [Quickfix](#quickfix)
 - [Readline](#readline)
 - [Registers](#registers)
+- [Remote & SSH](#remote--ssh)
 - [REPL](#repl)
 - [Rooter](#rooter)
 - [Runner](#runner)
@@ -836,6 +837,10 @@
 - [peekaboo](https://github.com/junegunn/vim-peekaboo)
 - [peekup](https://github.com/gennaro-tedesco/nvim-peekup)
 - [registers](https://github.com/tversteeg/registers.nvim)
+
+### Remote & SSH
+
+- [scamp](https://github.com/nat-418/scamp.nvim)
 
 ### REPL
 
