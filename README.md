@@ -650,6 +650,7 @@
 ### Miscellaneous
 
 - [ascii-blocks](https://github.com/superhawk610/ascii-blocks.nvim)
+- [ascii](https://github.com/MaximilianLloyd/ascii.nvim)
 - [buffest](https://github.com/rbong/vim-buffest)
 - [capture](https://github.com/tyru/capture.vim)
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
