@@ -5,6 +5,7 @@
 
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [neovimcraft](https://neovimcraft.com/)
+- [this-week-in-neovim](https://this-week-in-neovim.org/)
 - [vimawesome](https://vimawesome.com/)
 
 ### Table of Contents
