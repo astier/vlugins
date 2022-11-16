@@ -988,6 +988,7 @@
 - [glepnir/galaxyline](https://github.com/glepnir/galaxyline.nvim)
 - [hardline](https://github.com/ojroques/nvim-hardline)
 - [heirline](https://github.com/rebelot/heirline.nvim)
+- [incline](https://github.com/b0o/incline.nvim)
 - [lightline](https://github.com/itchyny/lightline.vim)
 - [lualine](https://github.com/hoob3rt/lualine.nvim)
 - [mistfly](https://github.com/bluz71/vim-mistfly-statusline)
