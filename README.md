@@ -1049,6 +1049,7 @@
 - [easypick](https://github.com/axkirillov/easypick.nvim)
 - [howdoi](https://github.com/Zane-/howdoi.nvim)
 - [ros](https://github.com/thibthib18/ros-nvim)
+- [telescope-extension-maker](https://github.com/adoyle-h/telescope-extension-maker.nvim)
 - [telescope-makefile](https://github.com/sopa0/telescope-makefile)
 - [telescope-recent-files](https://github.com/smartpde/telescope-recent-files)
 - [telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs)
