@@ -702,6 +702,7 @@
 - [quick-scope](https://github.com/unblevable/quick-scope)
 - [sj](https://github.com/woosaaahh/sj.nvim)
 - [sneak](https://github.com/justinmk/vim-sneak)
+- [svart](https://gitlab.com/madyanov/svart.nvim)
 - [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
 - [tabout](https://github.com/abecodes/tabout.nvim)
 - [vimproviser](https://github.com/egzvor/vimproviser)
