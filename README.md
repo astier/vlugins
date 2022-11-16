@@ -220,6 +220,7 @@
 ### Copy & Yank
 
 - [cutclass](https://github.com/svermeulen/vim-cutlass)
+- [file-location](https://github.com/diegoulloao/nvim-file-location)
 - [miniyank](https://github.com/bfredl/nvim-miniyank)
 - [neoclip](https://github.com/AckslD/nvim-neoclip.lua)
 - [osc52](https://github.com/ojroques/nvim-osc52)
