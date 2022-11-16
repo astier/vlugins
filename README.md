@@ -1042,6 +1042,7 @@
 
 - [cder](https://github.com/Zane-/cder.nvim)
 - [dash](https://github.com/mrjones2014/dash.nvim)
+- [dir-telescope](https://github.com/princejoogie/dir-telescope.nvim)
 - [easypick](https://github.com/axkirillov/easypick.nvim)
 - [howdoi](https://github.com/Zane-/howdoi.nvim)
 - [ros](https://github.com/thibthib18/ros-nvim)
