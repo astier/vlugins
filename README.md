@@ -16,6 +16,7 @@
 - [Buffers](#buffers)
 - [Case](#case)
 - [Colors](#colors)
+- [Colorschemes](#colorschemes)
 - [Comments](#comments)
 - [Completion](#completion)
 - [Context](#context)
@@ -155,6 +156,10 @@
 - [conver-color-to](https://github.com/amadeus/vim-convert-color-to)
 - [document-color](https://github.com/mrshmllow/document-color.nvim)
 - [highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors)
+
+### Colorschemes
+
+- [styler](https://github.com/folke/styler.nvim)
 
 ### Comments
 
