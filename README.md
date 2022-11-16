@@ -806,7 +806,8 @@
 - [ide](https://github.com/Dax89/ide.nvim)
 - [neoscopes](https://github.com/smartpde/neoscopes)
 - [project](https://github.com/ahmedkhalf/project.nvim)
-- [projectionist](https://github.com/tpope/vim-projectionist)
+- [projectionist.nvim](https://github.com/GnikDroy/projections.nvim)
+- [vim-projectionist](https://github.com/tpope/vim-projectionist)
 
 ### Quickfix
 
@@ -925,6 +926,7 @@
 - [neovim-session-manager](https://github.com/Shatur/neovim-session-manager)
 - [obsession](https://github.com/tpope/vim-obsession)
 - [possession](https://github.com/jedrzejboczar/possession.nvim)
+- [projections.nvim](https://github.com/GnikDroy/projections.nvim)
 - [prosession](https://github.com/dhruvasagar/vim-prosession)
 - [sessions](https://github.com/natecraddock/sessions.nvim)
 - [workspace](https://github.com/thaerkh/vim-workspace)
