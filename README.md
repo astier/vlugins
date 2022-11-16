@@ -888,6 +888,7 @@
 ### Search & Replace
 
 - [ack](https://github.com/mileszs/ack.vim)
+- [architext](https://github.com/vigoux/architext.nvim)
 - [asterisk](https://github.com/haya14busa/vim-asterisk)
 - [ctrlsf](https://github.com/dyng/ctrlsf.vim)
 - [easygrep](https://github.com/dkprice/vim-easygrep)
@@ -904,6 +905,7 @@
 - [searchx](https://github.com/hrsh7th/vim-searchx)
 - [slash](https://github.com/junegunn/vim-slash)
 - [spectre](https://github.com/windwp/nvim-spectre)
+- [ssr](https://github.com/cshuaimin/ssr.nvim/)
 - [starlite](https://github.com/ironhouzi/starlite-nvim)
 - [stim](https://github.com/ironhouzi/vim-stim)
 - [visual-star-search](https://github.com/bronson/vim-visual-star-search)
