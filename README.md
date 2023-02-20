@@ -1226,6 +1226,7 @@
 
 - [dressing](https://github.com/stevearc/dressing.nvim)
 - [flirt](https://github.com/tamton-aquib/flirt.nvim)
+- [floating-input](https://github.com/liangxianzhe/floating-input.nvim)
 - [gesture](https://github.com/notomo/gesture.nvim)
 - [hover](https://github.com/lewis6991/hover.nvim)
 - [monark](https://github.com/doums/monark.nvim)
