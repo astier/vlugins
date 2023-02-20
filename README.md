@@ -968,7 +968,7 @@
 - [nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace)
 - [search-replace.nvim](https://github.com/roobert/search-replace.nvim)
 - [searchReplace](https://github.com/romgrk/searchReplace.vim)
-- [spectre](https://github.com/windwp/nvim-spectre)
+- [spectre](https://github.com/nvim-pack/nvim-spectre)
 - [ssr](https://github.com/cshuaimin/ssr.nvim/)
 
 ### Search - Highlighting
