@@ -259,6 +259,7 @@
 - [cheovim](https://github.com/NTBBloodbath/cheovim)
 - [localvimrc](https://github.com/embear/vim-localvimrc)
 - [neoconf](https://github.com/folke/neoconf.nvim)
+- [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
 
 ### Context
 
