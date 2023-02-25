@@ -329,6 +329,7 @@
 - [clever-f](https://github.com/rhysd/clever-f.vim)
 - [eft](https://github.com/hrsh7th/vim-eft)
 - [eyeliner](https://github.com/jinh0/eyeliner.nvim)
+- [find-extender](https://github.com/thesafdarawan/find-extender.nvim)
 - [ftFt](https://github.com/gukz/ftFt.nvim)
 - [quick-scope](https://github.com/unblevable/quick-scope)
 
