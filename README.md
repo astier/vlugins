@@ -862,6 +862,7 @@
 - [qf_helper](https://github.com/stevearc/qf_helper.nvim)
 - [QFEnter](https://github.com/yssl/QFEnter)
 - [quickfix-reflector](https://github.com/stefandtw/quickfix-reflector.vim)
+- [quickr-preview](https://github.com/ronakg/quickr-preview.vim)
 - [replacer](https://github.com/gabrielpoca/replacer.nvim)
 
 ### Readline
