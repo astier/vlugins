@@ -251,6 +251,7 @@
 - [lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl)
 - [mucomplete](https://github.com/lifepillar/vim-mucomplete)
 - [sekme](https://github.com/Furkanzmc/sekme.nvim)
+- [supertab](https://github.com/ervandew/supertab)
 - [tmux-complete](https://github.com/wellle/tmux-complete.vim)
 - [VimCompletesMe](https://github.com/ackyshake/VimCompletesMe)
 
