@@ -691,6 +691,7 @@
 
 - [impatient](https://github.com/lewis6991/impatient.nvim)
 - [mini](https://github.com/echasnovski/mini.nvim)
+- [VimSpeak](https://github.com/AshleyF/VimSpeak)
 
 ### Move
 
