@@ -769,6 +769,7 @@
 - [treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects)
 - [treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects)
 - [various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs)
+- [wildfire](https://github.com/gcmt/wildfire.vim)
 
 ### Operations
 
