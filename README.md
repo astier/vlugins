@@ -107,7 +107,7 @@
 - [Statistics](#statistics)
 - [Statusline](#statusline)
 - [Statusline - Extensions](#statusline---extensions)
-- [Surroundings](#surroundings)
+- [Surround](#surround)
 - [Swap](#swap)
 - [Symbols/Tags](#symbolstags)
 - [Tabline](#tabline)
@@ -1085,7 +1085,7 @@
 - [weather](https://github.com/wyattjsmith1/weather.nvim)
 - [wpm](https://github.com/jcdickinson/wpm.nvim)
 
-### Surroundings
+### Surround
 
 - [nvim-surround](https://github.com/kylechui/nvim-surround)
 - [sandwich](https://github.com/machakann/vim-sandwich)
