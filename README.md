@@ -864,6 +864,7 @@
 
 - [bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [enmasse](https://github.com/Olical/vim-enmasse)
+- [portal](https://github.com/cbochs/portal.nvim)
 - [pqf](https://gitlab.com/yorickpeterse/nvim-pqf)
 - [qf-preview](https://github.com/bfrg/vim-qf-preview)
 - [qf](https://github.com/romainl/vim-qf)
