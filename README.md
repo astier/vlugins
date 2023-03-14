@@ -184,6 +184,7 @@
 ### Browsing & URLs
 
 - [browse](https://github.com/lalitmee/browse.nvim)
+- [browser-bookmarks](https://github.com/dhruvmanila/browser-bookmarks.nvim)
 - [devdocs](https://github.com/romainl/vim-devdocs)
 - [firenvim](https://github.com/glacambre/firenvim)
 - [open-browser](https://github.com/tyru/open-browser.vim)
