@@ -675,6 +675,7 @@
 - [markdown/gabrielelana](https://github.com/gabrielelana/vim-markdown)
 - [markdown/plasticboy](https://github.com/plasticboy/vim-markdown)
 - [markdowny](https://github.com/antonk52/markdowny.nvim)
+- [papyrus](https://github.com/abeleinin/papyrus)
 - [peek](https://github.com/toppair/peek.nvim)
 
 ### Marks
