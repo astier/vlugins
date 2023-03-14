@@ -465,6 +465,7 @@
 
 ### Git - Utilities
 
+- [advanced-git-search](https://github.com/aaronhallaert/advanced-git-search.nvim)
 - [committia](https://github.com/rhysd/committia.vim)
 - [gist](https://github.com/mattn/vim-gist)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
@@ -1127,6 +1128,7 @@
 
 ### Telescope
 
+- [advanced-git-search](https://github.com/aaronhallaert/advanced-git-search.nvim)
 - [cder](https://github.com/Zane-/cder.nvim)
 - [dash](https://github.com/mrjones2014/dash.nvim)
 - [dir-telescope](https://github.com/princejoogie/dir-telescope.nvim)
