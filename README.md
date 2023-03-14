@@ -590,6 +590,7 @@
 - [ipy](https://github.com/bfredl/nvim-ipy)
 - [ipython-cell](https://github.com/hanschen/vim-ipython-cell)
 - [jukit](https://github.com/luk400/vim-jukit)
+- [jupyter-kernel](https://github.com/lkhphuc/jupyter-kernel.nvim)
 - [jupyter-nvim](https://github.com/ahmedkhalf/jupyter-nvim)
 - [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim)
 - [jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending.vim)
