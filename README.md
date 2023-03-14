@@ -402,6 +402,7 @@
 - [fzf-lua](https://github.com/ibhagwan/fzf-lua)
 - [fzf](https://github.com/junegunn/fzf.vim)
 - [fzy](https://github.com/mfussenegger/nvim-fzy)
+- [kirby](https://github.com/romgrk/kirby.nvim)
 - [LeaderF](https://github.com/Yggdroot/LeaderF)
 - [nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf)
 - [telescope](https://github.com/nvim-telescope/telescope.nvim)
