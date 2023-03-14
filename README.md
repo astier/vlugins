@@ -1151,6 +1151,7 @@
 - [buffer-term](https://github.com/caenrique/buffer-term.nvim)
 - [bufresize](https://github.com/kwkarlwang/bufresize.nvim)
 - [deol](https://github.com/Shougo/deol.nvim)
+- [flatten](https://github.com/willothy/flatten.nvim)
 - [floaterm](https://github.com/voldikss/vim-floaterm)
 - [FTerm](https://github.com/numToStr/FTerm.nvim)
 - [neomux](https://github.com/nikvdp/neomux)
