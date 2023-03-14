@@ -409,6 +409,7 @@
 ### Games & Nonsense
 
 - [be-good](https://github.com/ThePrimeagen/vim-be-good)
+- [blackjack](https://github.com/alanfortlink/blackjack.nvim)
 - [cellular-automaton](https://github.com/Eandrju/cellular-automaton.nvim)
 - [drop](https://github.com/folke/drop.nvim)
 - [duck](https://github.com/tamton-aquib/duck.nvim)
