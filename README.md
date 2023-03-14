@@ -881,6 +881,7 @@
 
 ### Regex
 
+- [patternvault](https://github.com/MaximilianLloyd/patternvault.nvim)
 - [regex](https://github.com/Djancyp/regex.nvim)
 - [regexplainer](https://github.com/bennypowers/nvim-regexplainer)
 
