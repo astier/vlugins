@@ -1013,6 +1013,7 @@
 - [miniSnip](https://github.com/Jorengarenar/miniSnip)
 - [snipmate](https://github.com/garbas/vim-snipmate)
 - [snippet-converter](https://github.com/smjonas/snippet-converter.nvim)
+- [SnippetGenie](https://github.com/ziontee113/SnippetGenie)
 - [snippets](https://github.com/honza/vim-snippets)
 - [snippy](https://github.com/dcampos/nvim-snippy)
 - [ultisnips](https://github.com/SirVer/ultisnips)
