@@ -552,6 +552,7 @@
 - [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver)
 - [efm-langserver](https://github.com/mattn/efm-langserver)
 - [lint](https://github.com/mfussenegger/nvim-lint)
+- [gutentags](https://github.com/ludovicchabant/vim-gutentags)
 - [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim)
 - [qlist](https://github.com/romainl/vim-qlist)
 - [refactoring](https://github.com/ThePrimeagen/refactoring.nvim)
@@ -1117,7 +1118,6 @@
 ### Symbols/Tags
 
 - [aerial](https://github.com/stevearc/aerial.nvim)
-- [gutentags](https://github.com/ludovicchabant/vim-gutentags)
 - [lsp-smag](https://github.com/weilbith/nvim-lsp-smag)
 - [neo-minimap](https://github.com/ziontee113/neo-minimap)
 - [symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
