@@ -796,7 +796,6 @@
 
 - [boilit](https://github.com/gennaro-tedesco/boilit)
 - [debuglog](https://github.com/smartpde/debuglog)
-- [import](https://github.com/miversen33/import.nvim)
 - [options](https://github.com/Furkanzmc/options.nvim)
 - [plenary](https://github.com/nvim-lua/plenary.nvim)
 - [plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate)
