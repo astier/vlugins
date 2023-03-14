@@ -1065,6 +1065,7 @@
 
 - [airline](https://github.com/vim-airline/vim-airline)
 - [crystalline](https://github.com/rbong/vim-crystalline)
+- [feline](https://github.com/freddiehaddad/feline.nvim)
 - [glepnir/galaxyline](https://github.com/glepnir/galaxyline.nvim)
 - [hardline](https://github.com/ojroques/nvim-hardline)
 - [heirline](https://github.com/rebelot/heirline.nvim)
