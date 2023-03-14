@@ -502,6 +502,7 @@
 - [hl_match_area](https://github.com/rareitems/hl_match_area.nvim)
 - [matchparen](https://github.com/monkoose/matchparen.nvim)
 - [rainbow](https://github.com/luochen1990/rainbow)
+- [ts-rainbow2](https://gitlab.com/HiPhish/nvim-ts-rainbow2)
 
 ### Highlighting - CWord
 
