@@ -532,6 +532,7 @@
 ### Highlighting - Text
 
 - [codepainter](https://github.com/lpinilla/vim-codepainter)
+- [hi-my-words](https://github.com/dvoytik/hi-my-words.nvim)
 - [high-str](https://github.com/Pocco81/high-str.nvim)
 - [highlighter](https://github.com/azabiong/vim-highlighter)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
