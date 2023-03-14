@@ -325,6 +325,7 @@
 - [headlines](https://github.com/lukas-reineke/headlines.nvim)
 - [inline_edit](https://github.com/AndrewRadev/inline_edit.vim)
 - [mdeval](https://github.com/jubnzv/mdeval.nvim)
+- [otter](https://github.com/jmbuhr/otter.nvim)
 
 ### f/F
 
