@@ -146,6 +146,7 @@
 - [ai](https://github.com/aduros/ai.vim)
 - [ChatGPT/jackMort](https://github.com/jackMort/ChatGPT.nvim)
 - [chatgpt/terror](https://github.com/terror/chatgpt.nvim)
+- [CodeGPT](https://github.com/dpayne/CodeGPT.nvim)
 - [codeium](https://github.com/jcdickinson/codeium.nvim)
 - [copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 - [copilot.vim](https://github.com/github/copilot.vim)
