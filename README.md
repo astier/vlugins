@@ -629,6 +629,7 @@
 - [lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp)
 - [lsp-format-modifications](https://github.com/joechrisellis/lsp-format-modifications.nvim)
 - [lsp-format](https://github.com/lukas-reineke/lsp-format.nvim)
+- [lsp-lens](https://github.com/VidocqH/lsp-lens.nvim)
 - [lsp-smag](https://github.com/weilbith/nvim-lsp-smag)
 - [lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy)
