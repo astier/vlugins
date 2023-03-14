@@ -548,6 +548,7 @@
 - [ale](https://github.com/dense-analysis/ale)
 - [any-jump](https://github.com/pechorin/any-jump.vim)
 - [apathy](https://github.com/tpope/vim-apathy)
+- [cscope_maps](https://github.com/dhananjaylatkar/cscope_maps.nvim)
 - [diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver)
 - [efm-langserver](https://github.com/mattn/efm-langserver)
 - [lint](https://github.com/mfussenegger/nvim-lint)
