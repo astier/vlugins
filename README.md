@@ -849,6 +849,7 @@
 - [present](https://github.com/Chaitanyabsprip/present.nvim)
 - [ros/taDachs](https://github.com/taDachs/ros-nvim)
 - [ros/thibthib18](https://github.com/thibthib18/ros-nvim)
+- [taskwarrior](https://github.com/ribelo/taskwarrior.nvim)
 
 ### Project-Management
 
