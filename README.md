@@ -1283,6 +1283,7 @@
 
 ### Winbar
 
+- [barbecue](https://github.com/utilyre/barbecue.nvim)
 - [buffertag](https://github.com/ldelossa/buffertag)
 - [navic](https://github.com/SmiteshP/nvim-navic)
 
