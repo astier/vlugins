@@ -326,6 +326,7 @@
 - [inline_edit](https://github.com/AndrewRadev/inline_edit.vim)
 - [mdeval](https://github.com/jubnzv/mdeval.nvim)
 - [otter](https://github.com/jmbuhr/otter.nvim)
+- [tsnode-marker](https://github.com/atusy/tsnode-marker.nvim)
 
 ### f/F
 
