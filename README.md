@@ -1259,7 +1259,7 @@
 - [popui](https://github.com/hood/popui.nvim)
 - [renamer](https://github.com/filipdutescu/renamer.nvim)
 - [searchbox](https://github.com/VonHeikemen/searchbox.nvim)
-- [sidebar](https://github.com/GustavoKatel/sidebar.nvim)
+- [sidebar](https://github.com/sidebar-nvim/sidebar.nvim)
 - [stylish](https://github.com/sunjon/stylish.nvim)
 - [suit](https://github.com/doums/suit.nvim)
 - [wilder](https://github.com/gelguy/wilder.nvim)
