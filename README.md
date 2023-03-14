@@ -570,6 +570,7 @@
 - [indent-o-matic](https://github.com/Darazaki/indent-o-matic)
 - [indentLine](https://github.com/Yggdroot/indentLine)
 - [pasta](https://github.com/sickill/vim-pasta)
+- [plyglot](https://github.com/sheerun/vim-polyglot)
 - [sleuth](https://github.com/tpope/vim-sleuth)
 - [yadi](https://github.com/timakro/vim-yadi)
 - [yaifa](https://github.com/Raimondi/yaifa)
