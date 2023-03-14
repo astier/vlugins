@@ -1141,6 +1141,7 @@
 - [telescope-makefile](https://github.com/sopa0/telescope-makefile)
 - [telescope-media-files](https://github.com/nvim-telescope/telescope-media-files.nvim)
 - [telescope-media](https://github.com/dharmx/telescope-media.nvim)
+- [telescope-menufacture](https://github.com/molecule-man/telescope-menufacture)
 - [telescope-recent-files](https://github.com/smartpde/telescope-recent-files)
 - [telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs)
 - [telescope-tasks](https://github.com/lpoto/telescope-tasks.nvim)
