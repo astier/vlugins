@@ -908,6 +908,7 @@
 
 ### Remote
 
+- [distant](https://github.com/chipsenkbeil/distant.nvim)
 - [gdoc](https://github.com/aadv1k/gdoc.vim)
 - [instant](https://github.com/jbyuki/instant.nvim)
 - [notmuch](https://github.com/felipec/notmuch-vim)
@@ -915,6 +916,7 @@
 - [presence](https://github.com/andweeb/presence.nvim)
 - [s3edit](https://github.com/kiran94/s3edit.nvim)
 - [scamp](https://github.com/nat-418/scamp.nvim)
+- [sshfs](https://github.com/DanielWeidinger/nvim-sshfs)
 
 ### REPL
 
