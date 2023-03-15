@@ -849,6 +849,7 @@
 - [docker](https://github.com/dgrbrady/nvim-docker)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
 - [live-server](https://github.com/barrett-ruth/live-server.nvim)
+- [livedown](https://github.com/shime/vim-livedown)
 - [omen](https://github.com/nacro90/omen.nvim)
 - [package-info](https://github.com/vuki656/package-info.nvim)
 - [present](https://github.com/Chaitanyabsprip/present.nvim)
