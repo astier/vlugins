@@ -377,6 +377,7 @@
 - [file-location](https://github.com/diegoulloao/nvim-file-location)
 - [fwatch](https://github.com/rktjmp/fwatch.nvim)
 - [genghis](https://github.com/chrisgrieser/nvim-genghis)
+- [gtd](https://github.com/hrsh7th/nvim-gtd)
 - [locationist](https://github.com/LhKipp/nvim-locationist)
 - [olddirs](https://github.com/marcuscaisey/olddirs.nvim)
 - [suda](https://github.com/lambdalisue/suda.vim)
@@ -638,6 +639,7 @@
 ### LSP - Utilities
 
 - [fzf-lsp](https://github.com/gfanto/fzf-lsp.nvim)
+- [gtd](https://github.com/hrsh7th/nvim-gtd)
 - [lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp)
 - [lsp-format-modifications](https://github.com/joechrisellis/lsp-format-modifications.nvim)
 - [lsp-format](https://github.com/lukas-reineke/lsp-format.nvim)
