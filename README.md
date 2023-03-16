@@ -173,6 +173,7 @@
 - [closetag](https://github.com/alvan/vim-closetag)
 - [emmet](https://github.com/mattn/emmet-vim)
 - [endwise](https://github.com/tpope/vim-endwise)
+- [insx](https://github.com/hrsh7th/nvim-insx)
 - [treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise)
 - [ts-closetag](https://github.com/windwp/nvim-ts-closetag)
 - [ultimate-autopair](https://github.com/altermo/ultimate-autopair.nvim)
