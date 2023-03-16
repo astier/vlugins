@@ -579,6 +579,7 @@
 ### Indentation
 
 - [anyline](https://github.com/huy-hng/anyline.nvim)
+- [dansa](https://github.com/hrsh7th/nvim-dansa)
 - [guess-indent](https://github.com/NMAC427/guess-indent.nvim)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [indent-o-matic](https://github.com/Darazaki/indent-o-matic)
