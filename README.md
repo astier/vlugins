@@ -275,6 +275,7 @@
 
 - [cutclass](https://github.com/svermeulen/vim-cutlass)
 - [miniyank](https://github.com/bfredl/nvim-miniyank)
+- [nvim-pasta](https://github.com/hrsh7th/nvim-pasta)
 - [osc52](https://github.com/ojroques/nvim-osc52)
 - [oscyank](https://github.com/ojroques/vim-oscyank)
 - [smartyank](https://github.com/ibhagwan/smartyank.nvim)
