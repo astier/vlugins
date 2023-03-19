@@ -1344,6 +1344,7 @@
 
 ### Writing & Reading
 
+- [easyread](https://github.com/JellyApple102/easyread.nvim)
 - [fsread](https://github.com/nullchilly/fsread.nvim)
 - [headlines](https://github.com/lukas-reineke/headlines.nvim)
 - [pencil](https://github.com/preservim/vim-pencil)
