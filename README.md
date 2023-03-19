@@ -476,10 +476,11 @@
 
 - [advanced-git-search](https://github.com/aaronhallaert/advanced-git-search.nvim)
 - [committia](https://github.com/rhysd/committia.vim)
-- [gist](https://github.com/mattn/vim-gist)
+- [gist.nvim](https://github.com/Rawnly/gist.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
 - [git-worktree](https://github.com/ThePrimeagen/git-worktree.nvim)
 - [gitlinker](https://github.com/ruifm/gitlinker.nvim)
+- [vim-gist](https://github.com/mattn/vim-gist)
 
 ### GitHub
 
