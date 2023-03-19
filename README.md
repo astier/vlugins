@@ -425,6 +425,7 @@
 - [mario](https://github.com/rbtnn/vim-mario)
 - [mine-sweeping](https://github.com/iqxd/vim-mine-sweeping)
 - [pets](https://github.com/giusgad/pets.nvim)
+- [sudoku](https://github.com/jim-fx/sudoku.nvim)
 - [tetris](https://github.com/alec-gibson/nvim-tetris)
 - [zone](https://github.com/tamton-aquib/zone.nvim)
 
