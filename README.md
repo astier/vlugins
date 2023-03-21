@@ -886,12 +886,13 @@
 - [portal](https://github.com/cbochs/portal.nvim)
 - [pqf](https://gitlab.com/yorickpeterse/nvim-pqf)
 - [qf-preview](https://github.com/bfrg/vim-qf-preview)
-- [qf](https://github.com/romainl/vim-qf)
+- [qf.nvim](https://github.com/ten3roberts/qf.nvim)
 - [qf_helper](https://github.com/stevearc/qf_helper.nvim)
 - [QFEnter](https://github.com/yssl/QFEnter)
 - [quickfix-reflector](https://github.com/stefandtw/quickfix-reflector.vim)
 - [quickr-preview](https://github.com/ronakg/quickr-preview.vim)
 - [replacer](https://github.com/gabrielpoca/replacer.nvim)
+- [vim-qf](https://github.com/romainl/vim-qf)
 
 ### Readline
 
