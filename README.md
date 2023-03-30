@@ -1207,6 +1207,7 @@
 ### Tmux
 
 - [Navigator](https://github.com/numToStr/Navigator.nvim)
+- [nvimux](https://github.com/hkupty/nvimux)
 - [smart-splits](https://github.com/mrjones2014/smart-splits.nvim)
 - [tbobe](https://github.com/tpope/vim-tbone)
 - [tmux-complete](https://github.com/wellle/tmux-complete.vim)
