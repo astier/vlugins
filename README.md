@@ -193,6 +193,7 @@
 - [devdocs](https://github.com/romainl/vim-devdocs)
 - [firenvim](https://github.com/glacambre/firenvim)
 - [open-browser](https://github.com/tyru/open-browser.vim)
+- [open-url](https://github.com/dhruvasagar/vim-open-url)
 - [urlview](https://github.com/axieax/urlview.nvim)
 
 ### Buffers - Delete
