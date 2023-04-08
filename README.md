@@ -58,7 +58,6 @@
 - [Highlighting - Text](#highlighting---text)
 - [Icons](#icons)
 - [IDE-Features](#ide-features)
-- [Increment](#increment)
 - [Indentation](#indentation)
 - [JSON](#json)
 - [Jupyter/Ipython](#jupyteripython)
@@ -94,7 +93,6 @@
 - [Remote](#remote)
 - [REPL](#repl)
 - [Replace](#replace)
-- [Representation](#representation)
 - [Runner & Tasks](#runner--tasks)
 - [Screenshots](#screenshots)
 - [Scrolling](#scrolling)
@@ -117,6 +115,8 @@
 - [Testing](#testing)
 - [Tmux](#tmux)
 - [Transform](#transform)
+- [Transform - Base](##transform---base)
+- [Transform - Increment](#transform---increment)
 - [Translating](#translating)
 - [Treesitter](#treesitter)
 - [Typing](#typing)
@@ -581,17 +581,6 @@
 - [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [vimtex](https://github.com/lervag/vimtex)
 
-### Increment
-
-- [alternate-toggler](https://github.com/rmagatti/alternate-toggler)
-- [boole](https://github.com/nat-418/boole.nvim)
-- [dial](https://github.com/monaqa/dial.nvim)
-- [nrpattern](https://github.com/zegervdv/nrpattern.nvim)
-- [speeddating](https://github.com/tpope/vim-speeddating)
-- [switch](https://github.com/AndrewRadev/switch.vim)
-- [toggler](https://github.com/nguyenvukhang/nvim-toggler)
-- [visual-increment](https://github.com/triglav/vim-visual-increment)
-
 ### Indentation
 
 - [anyline](https://github.com/huy-hng/anyline.nvim)
@@ -968,12 +957,6 @@
 - [substitute](https://github.com/gbprod/substitute.nvim)
 - [subversive](https://github.com/svermeulen/vim-subversive)
 
-### Representation
-
-- [conv](https://github.com/simonefranza/nvim-conv)
-- [eswpoch](https://github.com/hlucco/nvim-eswpoch)
-- [radical](https://github.com/glts/vim-radical)
-
 ### Runner & Tasks
 
 - [asyncrun](https://github.com/skywind3000/asyncrun.vim)
@@ -1253,6 +1236,24 @@
 - [treesj](https://github.com/Wansmer/treesj)
 - [trevJ](https://github.com/AckslD/nvim-trevJ.lua)
 - [ts-node-action](https://github.com/CKolkey/ts-node-action)
+
+### Transform - Base
+
+- [conv](https://github.com/simonefranza/nvim-conv)
+- [eswpoch](https://github.com/hlucco/nvim-eswpoch)
+- [nibbler](https://github.com/Skosulor/nibbler)
+- [radical](https://github.com/glts/vim-radical)
+
+### Transform - Increment
+
+- [alternate-toggler](https://github.com/rmagatti/alternate-toggler)
+- [boole](https://github.com/nat-418/boole.nvim)
+- [dial](https://github.com/monaqa/dial.nvim)
+- [nrpattern](https://github.com/zegervdv/nrpattern.nvim)
+- [speeddating](https://github.com/tpope/vim-speeddating)
+- [switch](https://github.com/AndrewRadev/switch.vim)
+- [toggler](https://github.com/nguyenvukhang/nvim-toggler)
+- [visual-increment](https://github.com/triglav/vim-visual-increment)
 
 ### Translating
 
