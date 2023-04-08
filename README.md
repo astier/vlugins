@@ -1206,6 +1206,7 @@
 - [smart-term-esc](https://github.com/sychen52/smart-term-esc.nvim)
 - [sterm](https://github.com/Hvassaa/sterm.nvim)
 - [term-edit](https://github.com/chomosuke/term-edit.nvim)
+- [terminal](https://github.com/rebelot/terminal.nvim)
 - [termitary](https://github.com/nat-418/termitary.nvim)
 - [termnames](https://github.com/aaditeynair/termnames.nvim)
 - [toggleterm](https://github.com/akinsho/nvim-toggleterm.lua)
