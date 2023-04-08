@@ -119,7 +119,7 @@
 - [Transform](#transform)
 - [Transform - Base](##transform---base)
 - [Transform - Increment](#transform---increment)
-- [Translating](#translating)
+- [Translation](#translation)
 - [Treesitter](#treesitter)
 - [Typing](#typing)
 - [UI - Development](#ui---development)
@@ -1272,7 +1272,7 @@
 - [toggler](https://github.com/nguyenvukhang/nvim-toggler)
 - [visual-increment](https://github.com/triglav/vim-visual-increment)
 
-### Translating
+### Translation
 
 - [pantran](https://github.com/potamides/pantran.nvim)
 - [translate-shell](https://github.com/echuraev/translate-shell.vim)
