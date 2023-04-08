@@ -62,6 +62,7 @@
 - [Indentation](#indentation)
 - [JSON](#json)
 - [Jupyter/Ipython](#jupyteripython)
+- [Keyboard](#keyboard)
 - [Lastplace](#lastplace)
 - [Lists](#lists)
 - [LSP - UI](#lsp---ui)
@@ -621,6 +622,13 @@
 - [jupyter_ascending](https://github.com/untitled-ai/jupyter_ascending.vim)
 - [jupytext](https://github.com/goerz/jupytext.vim)
 - [magma](https://github.com/dccsillag/magma-nvim)
+
+### Keyboard
+
+- [im-select](https://github.com/keaising/im-select.nvim)
+- [langmapper](https://github.com/Wansmer/langmapper.nvim)
+- [qmk](https://github.com/codethread/qmk.nvim)
+- [xkbswitch](https://github.com/lyokha/vim-xkbswitch)
 
 ### Lastplace
 
