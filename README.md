@@ -549,6 +549,7 @@
 
 ### Icons
 
+- [circles](https://github.com/projekt0n/circles.nvim)
 - [lspkind](https://github.com/onsails/lspkind-nvim)
 - [nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon)
 - [nvim-nonicons](https://github.com/yamatsum/nvim-nonicons)
