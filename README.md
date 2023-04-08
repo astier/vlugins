@@ -480,6 +480,7 @@
 - [gist.nvim](https://github.com/Rawnly/gist.nvim)
 - [git-messenger](https://github.com/rhysd/git-messenger.vim)
 - [git-worktree](https://github.com/ThePrimeagen/git-worktree.nvim)
+- [gitignore](https://github.com/wintermute-cell/gitignore.nvim)
 - [gitlinker](https://github.com/ruifm/gitlinker.nvim)
 - [vim-gist](https://github.com/mattn/vim-gist)
 
