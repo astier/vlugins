@@ -768,6 +768,7 @@
 - [arachne](https://github.com/oem/arachne.nvim)
 - [dotoo](https://github.com/dhruvasagar/vim-dotoo)
 - [flashcards](https://github.com/alex-laycalvert/flashcards.nvim)
+- [flote](https://github.com/JellyApple102/flote.nvim)
 - [kb-notes](https://github.com/dobrovolsky/kb-notes.nvim)
 - [linny](https://github.com/linden-project/linny.vim)
 - [mind](https://github.com/phaazon/mind.nvim)
