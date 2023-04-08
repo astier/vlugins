@@ -937,6 +937,7 @@
 
 ### Remote
 
+- [dev-container](https://github.com/esensar/nvim-dev-container)
 - [distant](https://github.com/chipsenkbeil/distant.nvim)
 - [gdoc](https://github.com/aadv1k/gdoc.vim)
 - [instant](https://github.com/jbyuki/instant.nvim)
@@ -944,6 +945,7 @@
 - [notmuch](https://github.com/felipec/notmuch-vim)
 - [paperplanes](https://github.com/rktjmp/paperplanes.nvim)
 - [presence](https://github.com/andweeb/presence.nvim)
+- [remote-containers](https://github.com/jamestthompson3/nvim-remote-containers)
 - [remote-sshfs](https://github.com/NOSDuco/remote-sshfs.nvim)
 - [s3edit](https://github.com/kiran94/s3edit.nvim)
 - [scamp](https://github.com/nat-418/scamp.nvim)
