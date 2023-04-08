@@ -744,7 +744,6 @@
 
 ### Motions
 
-- [CamelCaseMotion](https://github.com/bkad/CamelCaseMotion)
 - [easy-action](https://github.com/Weissle/easy-action)
 - [hop](https://github.com/phaazon/hop.nvim)
 - [indentwise](https://github.com/jeetsukumaran/vim-indentwise)
@@ -762,8 +761,13 @@
 - [svart](https://gitlab.com/madyanov/svart.nvim)
 - [syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer)
 - [tabout](https://github.com/abecodes/tabout.nvim)
-- [wordmotion](https://github.com/chaoren/vim-wordmotion)
 - [zero](https://github.com/yuki-yano/zero.nvim)
+
+### Motions - Words
+
+- [CamelCaseMotion](https://github.com/bkad/CamelCaseMotion)
+- [spider](https://github.com/chrisgrieser/nvim-spider)
+- [wordmotion](https://github.com/chaoren/vim-wordmotion)
 
 ### Notes & Wiki
 
