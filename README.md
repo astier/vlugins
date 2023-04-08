@@ -523,6 +523,7 @@
 
 ### Highlighting - Lines
 
+- [deadcolumn](https://github.com/Bekaboo/deadcolumn.nvim)
 - [footprints](https://github.com/axlebedev/footprints)
 - [overlength.nvim](https://github.com/lcheylus/overlength.nvim)
 - [overlength.vim](https://github.com/tjdevries/overlength.vim)
