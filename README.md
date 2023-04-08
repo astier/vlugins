@@ -536,6 +536,7 @@
 
 - [deadcolumn](https://github.com/Bekaboo/deadcolumn.nvim)
 - [footprints](https://github.com/axlebedev/footprints)
+- [NeoColumn](https://github.com/ecthelionvi/NeoColumn.nvim)
 - [overlength.nvim](https://github.com/lcheylus/overlength.nvim)
 - [overlength.vim](https://github.com/tjdevries/overlength.vim)
 - [smartcolumn](https://github.com/m4xshen/smartcolumn.nvim)
