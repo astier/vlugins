@@ -198,6 +198,7 @@
 - [BufOnly](https://github.com/numToStr/BufOnly.nvim)
 - [close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim)
 - [close-buffers.vim](https://github.com/Asheq/close-buffers.vim)
+- [early-retirement](https://github.com/chrisgrieser/nvim-early-retirement)
 - [smartq](https://github.com/marklcrns/vim-smartq)
 
 ### Buffers - Management
