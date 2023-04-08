@@ -429,6 +429,7 @@
 - [cellular-automaton](https://github.com/Eandrju/cellular-automaton.nvim)
 - [drop](https://github.com/folke/drop.nvim)
 - [duck](https://github.com/tamton-aquib/duck.nvim)
+- [hacker](https://github.com/letieu/hacker.nvim)
 - [lichess](https://github.com/luk400/vim-lichess)
 - [mario](https://github.com/rbtnn/vim-mario)
 - [mine-sweeping](https://github.com/iqxd/vim-mine-sweeping)
