@@ -314,6 +314,7 @@
 ### Diagnostic
 
 - [diaglist](https://github.com/onsails/diaglist.nvim)
+- [error-lens](https://github.com/chikko80/error-lens.nvim)
 - [neo-tree-diagnostics](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim)
 - [toggle-lsp-diagnostics](https://github.com/WhoIsSethDaniel/toggle-lsp-diagnostics.nvim)
 - [trouble](https://github.com/folke/trouble.nvim)
