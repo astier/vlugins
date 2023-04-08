@@ -878,6 +878,7 @@
 
 ### Project-Management
 
+- [automaton](https://github.com/Dax89/automaton.nvim)
 - [neoscopes](https://github.com/smartpde/neoscopes)
 - [project](https://github.com/ahmedkhalf/project.nvim)
 - [projections.nvim](https://github.com/GnikDroy/projections.nvim)
