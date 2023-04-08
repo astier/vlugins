@@ -869,6 +869,7 @@
 ### Programs
 
 - [calendar](https://github.com/mattn/calendar-vim)
+- [circleci](https://github.com/tomoakley/circleci.nvim)
 - [competitest](https://github.com/xeluxee/competitest.nvim)
 - [docker](https://github.com/dgrbrady/nvim-docker)
 - [IRC](https://github.com/shadmansaleh/IRC.nvim)
