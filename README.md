@@ -401,6 +401,7 @@
 - [formatter](https://github.com/mhartington/formatter.nvim)
 - [neoformat](https://github.com/sbdchd/neoformat)
 - [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim)
+- [qmk](https://github.com/codethread/qmk.nvim)
 
 ### Fuzzy-Finder
 
