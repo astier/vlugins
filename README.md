@@ -851,6 +851,7 @@
 ### Plumbing
 
 - [gx-extended](https://github.com/stsewd/gx-extended.vim)
+- [gx](https://github.com/chrishrb/gx.nvim)
 - [hover](https://github.com/lewis6991/hover.nvim)
 - [open](https://github.com/ofirgall/open.nvim)
 
