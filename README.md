@@ -267,6 +267,7 @@
 ### Context
 
 - [context](https://github.com/wellle/context.vim)
+- [navbuddy](https://github.com/SmiteshP/nvim-navbuddy)
 - [navic](https://github.com/SmiteshP/nvim-navic)
 - [node-type](https://github.com/roobert/node-type.nvim)
 - [treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
@@ -651,6 +652,7 @@
 - [lsp-smag](https://github.com/weilbith/nvim-lsp-smag)
 - [lspconfig](https://github.com/neovim/nvim-lspconfig)
 - [lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy)
+- [navbuddy](https://github.com/SmiteshP/nvim-navbuddy)
 - [navigator](https://github.com/ray-x/navigator.lua)
 - [nlsp-settings](https://github.com/tamago324/nlsp-settings.nvim)
 - [node-type](https://github.com/roobert/node-type.nvim)
