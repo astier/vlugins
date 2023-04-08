@@ -143,14 +143,17 @@
 
 ### AI
 
-- [ai](https://github.com/aduros/ai.vim)
-- [ChatGPT/jackMort](https://github.com/jackMort/ChatGPT.nvim)
-- [chatgpt/terror](https://github.com/terror/chatgpt.nvim)
+- [ai.vim](https://github.com/aduros/ai.vim)
+- [backseat](https://github.com/james1236/backseat.nvim)
+- [ChatGPT](https://github.com/jackMort/ChatGPT.nvim)
+- [chatgpt](https://github.com/terror/chatgpt.nvim)
 - [CodeGPT](https://github.com/dpayne/CodeGPT.nvim)
-- [codeium](https://github.com/jcdickinson/codeium.nvim)
+- [codeium.nvim](https://github.com/jcdickinson/codeium.nvim)
+- [codeium.vim](https://github.com/Exafunction/codeium.vim)
 - [copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 - [copilot.vim](https://github.com/github/copilot.vim)
 - [neural](https://github.com/dense-analysis/neural)
+- [vim-ai](https://github.com/madox2/vim-ai)
 - [vim_codex](https://github.com/tom-doerr/vim_codex)
 
 ### Alignment
@@ -498,6 +501,7 @@
 - [dashboard](https://github.com/glepnir/dashboard-nvim)
 - [startup](https://github.com/startup-nvim/startup.nvim)
 - [stratify](https://github.com/mhinz/vim-startify)
+- [veil](https://github.com/willothy/veil.nvim)
 
 ### Highlighting - Arguments
 
