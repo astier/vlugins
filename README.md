@@ -86,6 +86,7 @@
 - [Programs](#programs)
 - [Project-Management](#project-management)
 - [Project-Root](#project-root)
+- [Python](#python)
 - [Quickfix](#quickfix)
 - [Readline](#readline)
 - [Regex](#regex)
@@ -888,6 +889,10 @@
 - [nvim-rooter](https://github.com/jedi2610/nvim-rooter.lua)
 - [project](https://github.com/ahmedkhalf/project.nvim)
 - [vim-rooter](https://github.com/airblade/vim-rooter)
+
+### Python
+
+- [venv-selector](https://github.com/linux-cultist/venv-selector.nvim)
 
 ### Quickfix
 
