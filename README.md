@@ -56,6 +56,7 @@
 - [Highlighting - Lines](#highlighting---lines)
 - [Highlighting - Miscellaneous](#highlighting---miscellaneous)
 - [Highlighting - Text](#highlighting---text)
+- [HTTP](#http)
 - [Icons](#icons)
 - [IDE-Features](#ide-features)
 - [Indentation](#indentation)
@@ -556,6 +557,11 @@
 - [highlighter](https://github.com/azabiong/vim-highlighter)
 - [interestingwords](https://github.com/lfv89/vim-interestingwords)
 - [mark](https://github.com/inkarkat/vim-mark)
+
+### HTTP
+
+- [http](https://github.com/BlackLight/nvim-http)
+- [rest](https://github.com/rest-nvim/rest.nvim)
 
 ### Icons
 
