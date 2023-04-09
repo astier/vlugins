@@ -1192,6 +1192,7 @@
 - [easypick](https://github.com/axkirillov/easypick.nvim)
 - [smart-open](https://github.com/danielfalk/smart-open.nvim)
 - [telescope-all-recent](https://github.com/prochri/telescope-all-recent.nvim)
+- [telescope-changes](https://github.com/LinArcX/telescope-changes.nvim)
 - [telescope-diff](https://github.com/jemag/telescope-diff.nvim)
 - [telescope-extension-maker](https://github.com/adoyle-h/telescope-extension-maker.nvim)
 - [telescope-makefile](https://github.com/sopa0/telescope-makefile)
