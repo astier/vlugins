@@ -824,6 +824,7 @@
 ### Operations
 
 - [cosco](https://github.com/lfilho/cosco.vim)
+- [duplicate](https://github.com/smjonas/duplicate.nvim)
 - [express](https://github.com/tommcdo/vim-express)
 - [peculiar](https://github.com/JRasmusBm/vim-peculiar)
 - [repeat](https://github.com/tpope/vim-repeat)
