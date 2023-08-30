@@ -683,6 +683,7 @@
 - [better-escape](https://github.com/max397574/better-escape.nvim)
 - [caskey](https://github.com/Nexmean/caskey.nvim)
 - [command-center](https://github.com/FeiyouG/command_center.nvim)
+- [hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
 - [hardtime](https://github.com/takac/vim-hardtime)
 - [hydra](https://github.com/anuvyklack/hydra.nvim)
 - [key-menu](https://github.com/linty-org/key-menu.nvim)
