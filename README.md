@@ -6,7 +6,6 @@
 - [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 - [neovimcraft](https://neovimcraft.com/)
 - [neovimmm](https://tomdeneire.github.io/neovimmm/)
-- [this-week-in-neovim](https://this-week-in-neovim.org/)
 - [vimawesome](https://vimawesome.com/)
 
 ### Table of Contents
@@ -141,7 +140,6 @@
 
 - [abbreinder](https://github.com/0styx0/abbreinder.nvim)
 - [abbremand](https://github.com/0styx0/abbremand.nvim)
-- [abbrevman](https://github.com/Pocco81/AbbrevMan.nvim)
 - [abolish](https://github.com/tpope/vim-abolish)
 
 ### AI
@@ -149,7 +147,6 @@
 - [ai.vim](https://github.com/aduros/ai.vim)
 - [backseat](https://github.com/james1236/backseat.nvim)
 - [ChatGPT](https://github.com/jackMort/ChatGPT.nvim)
-- [chatgpt](https://github.com/terror/chatgpt.nvim)
 - [CodeGPT](https://github.com/dpayne/CodeGPT.nvim)
 - [codeium.nvim](https://github.com/jcdickinson/codeium.nvim)
 - [codeium.vim](https://github.com/Exafunction/codeium.vim)
@@ -157,7 +154,6 @@
 - [copilot.vim](https://github.com/github/copilot.vim)
 - [neural](https://github.com/dense-analysis/neural)
 - [vim-ai](https://github.com/madox2/vim-ai)
-- [vim_codex](https://github.com/tom-doerr/vim_codex)
 
 ### Alignment
 
@@ -598,7 +594,6 @@
 - [guess-indent](https://github.com/NMAC427/guess-indent.nvim)
 - [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [indent-o-matic](https://github.com/Darazaki/indent-o-matic)
-- [indentLine](https://github.com/Yggdroot/indentLine)
 - [pasta](https://github.com/sickill/vim-pasta)
 - [plyglot](https://github.com/sheerun/vim-polyglot)
 - [sleuth](https://github.com/tpope/vim-sleuth)
@@ -827,7 +822,6 @@
 ### Operations
 
 - [cosco](https://github.com/lfilho/cosco.vim)
-- [duplicate](https://github.com/smjonas/duplicate.nvim)
 - [express](https://github.com/tommcdo/vim-express)
 - [peculiar](https://github.com/JRasmusBm/vim-peculiar)
 - [repeat](https://github.com/tpope/vim-repeat)
@@ -1258,7 +1252,6 @@
 
 ### Transform
 
-- [argwrap](https://github.com/FooSoft/vim-argwrap)
 - [escape](https://github.com/m-gail/escape.nvim)
 - [expand-expr](https://github.com/AllenDang/nvim-expand-expr)
 - [splitjoin.nvim](https://github.com/bennypowers/splitjoin.nvim)
