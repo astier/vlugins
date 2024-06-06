@@ -289,6 +289,7 @@
 - [oscyank](https://github.com/ojroques/vim-oscyank)
 - [smartyank](https://github.com/ibhagwan/smartyank.nvim)
 - [system-copy](https://github.com/christoomey/vim-system-copy)
+- [YankAssassin](https://github.com/svban/YankAssassin.vim)
 - [yanky](https://github.com/gbprod/yanky.nvim)
 - [yoink](https://github.com/svermeulen/vim-yoink)
 
